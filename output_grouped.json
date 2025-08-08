@@ -1,0 +1,5315 @@
+[
+  {
+    "Contradiction": {
+      "4.46": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "4.461": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradictions"
+      },
+      "4.4611": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradictions"
+      },
+      "4.462": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradictions"
+      },
+      "4.463": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "4.464": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "4.466": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "4.4661": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradictions"
+      },
+      "5.143": {
+        "german": "Kontradiktion",
+        "english_ogden": "Contradiction",
+        "english_peamg": "Contradiction"
+      },
+      "5.152": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "5.525": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "6.1202": {
+        "german": "Kontradiktionen",
+        "english_ogden": "contradictions",
+        "english_peamg": "contradictions"
+      },
+      "6.1203": {
+        "german": "Widerspruch",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "6.123": {
+        "german": "Widerspruch",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "6.3751": {
+        "german": "Widerspruch",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      }
+    }
+  },
+  {
+    "Frege": {
+      "3.143": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "3.318": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "3.325": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "4.063": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "4.1272": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "4.1273": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "4.431": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "4.442": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "5.02": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "5.132": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "5.4": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "5.42": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "5.451": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "5.4733": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "5.521": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "6.1271": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      },
+      "6.232": {
+        "german": "Frege",
+        "english_ogden": "Frege",
+        "english_peamg": "Frege"
+      }
+    }
+  },
+  {
+    "General form": {
+      "3.312": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "4.1273": {
+        "german": "allgemeine Glied",
+        "english_ogden": "general term",
+        "english_peamg": "general term"
+      },
+      "4.5": {
+        "german": "allgemeinste Satzform",
+        "english_ogden": "most general form",
+        "english_peamg": "most general propositional form"
+      },
+      "5.46": {
+        "german": "allgemeinste Form",
+        "english_ogden": "most general form",
+        "english_peamg": "most general form"
+      },
+      "5.47": {
+        "german": "allgemeine Satzform",
+        "english_ogden": "general form",
+        "english_peamg": "general propositional form"
+      },
+      "5.471": {
+        "german": "allgemeine Satzform",
+        "english_ogden": "general form",
+        "english_peamg": "general propositional form"
+      },
+      "6": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "6.002": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "6.01": {
+        "german": "allgemeinste Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "6.022": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "6.03": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      }
+    }
+  },
+  {
+    "Inference": {
+      "4.023": {
+        "german": "Schlüsse",
+        "english_ogden": "conclusions",
+        "english_peamg": "inferences"
+      },
+      "5.1311": {
+        "german": "schliessen",
+        "english_ogden": "infer",
+        "english_peamg": "infer"
+      },
+      "5.132": {
+        "german": "Schluss",
+        "english_ogden": "inference",
+        "english_peamg": "inference"
+      },
+      "5.133": {
+        "german": "Folgern",
+        "english_ogden": "inference",
+        "english_peamg": "deductions"
+      },
+      "5.135": {
+        "german": "geschlossen",
+        "english_ogden": "inference",
+        "english_peamg": "inference"
+      },
+      "5.136": {
+        "german": "Schluss",
+        "english_ogden": "inference",
+        "english_peamg": "inference"
+      },
+      "5.1362": {
+        "german": "logischen Schlusses",
+        "english_ogden": "logical deduction",
+        "english_peamg": "logical inference"
+      },
+      "5.152": {
+        "german": "Schlusses",
+        "english_ogden": "conclusion",
+        "english_peamg": "inference"
+      },
+      "6.1224": {
+        "german": "Schliessen",
+        "english_ogden": "inference",
+        "english_peamg": "inference"
+      },
+      "6.211": {
+        "german": "schliessen",
+        "english_ogden": "infer",
+        "english_peamg": "inferences"
+      }
+    }
+  },
+  {
+    "Logical form": {
+      "2.0233": {
+        "german": "logischen Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "2.18": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "2.181": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "2.2": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logico-pictorial form"
+      },
+      "3.315": {
+        "german": "logischen Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "3.327": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "4.0031": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "4.12": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "4.121": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "4.128": {
+        "german": "logischen Formen",
+        "english_ogden": "logical forms",
+        "english_peamg": "Logical forms"
+      },
+      "5.555": {
+        "german": "logischen Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical forms"
+      },
+      "6.23": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "6.33": {
+        "german": "logischen Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      }
+    }
+  },
+  {
+    "Names": {
+      "3.142": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "3.144": {
+        "german": "Namen",
+        "english_ogden": "Names",
+        "english_peamg": "Names"
+      },
+      "3.202": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "3.261": {
+        "german": "Namen",
+        "english_ogden": "Names",
+        "english_peamg": "Names"
+      },
+      "3.314": {
+        "german": "Name",
+        "english_ogden": "name",
+        "english_peamg": "names"
+      },
+      "4.22": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "4.221": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "4.24": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "Names"
+      },
+      "4.243": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "4.5": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "5.02": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "5.535": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "5.55": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      },
+      "6.124": {
+        "german": "Namen",
+        "english_ogden": "names",
+        "english_peamg": "names"
+      }
+    }
+  },
+  {
+    "Negation": {
+      "3.42": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "4.0621": {
+        "german": "Verneinung",
+        "english_ogden": "negation",
+        "english_peamg": "negation"
+      },
+      "4.064": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "4.0641": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "5.2341": {
+        "german": "Verneinung",
+        "english_ogden": "Denial",
+        "english_peamg": "Negation"
+      },
+      "5.254": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "5.44": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "5.451": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "5.5": {
+        "german": "Negation",
+        "english_ogden": "negation",
+        "english_peamg": "negation"
+      },
+      "5.502": {
+        "german": "Negation",
+        "english_ogden": "negation",
+        "english_peamg": "negation"
+      },
+      "5.512": {
+        "german": "verneint",
+        "english_ogden": "denies",
+        "english_peamg": "negates"
+      },
+      "6.231": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      }
+    }
+  },
+  {
+    "Numbers": {
+      "4.1252": {
+        "german": "Zahlenreihe",
+        "english_ogden": "numbers",
+        "english_peamg": "number-series"
+      },
+      "4.12721": {
+        "german": "Zahl",
+        "english_ogden": "number",
+        "english_peamg": "number"
+      },
+      "4.128": {
+        "german": "Zahlen",
+        "english_ogden": "numbers",
+        "english_peamg": "numbers"
+      },
+      "5.02": {
+        "german": "Zahlen",
+        "english_ogden": "numbers",
+        "english_peamg": "numbers"
+      },
+      "5.154": {
+        "german": "Zahlen",
+        "english_ogden": "numbers",
+        "english_peamg": "numbers"
+      },
+      "5.453": {
+        "german": "Zahlen",
+        "english_ogden": "numbers",
+        "english_peamg": "numbers"
+      },
+      "5.553": {
+        "german": "Anzahlen",
+        "english_ogden": "numbers",
+        "english_peamg": "numbers"
+      },
+      "6.02": {
+        "german": "Zahlen",
+        "english_ogden": "numbers",
+        "english_peamg": "numbers"
+      },
+      "6.022": {
+        "german": "Zahlbegriff",
+        "english_ogden": "number",
+        "english_peamg": "number"
+      },
+      "6.341": {
+        "german": "Zahlensystem",
+        "english_ogden": "system of numbers",
+        "english_peamg": "number-system"
+      }
+    }
+  },
+  {
+    "Operations": {
+      "5.233": {
+        "german": "Operation",
+        "english_ogden": "operation",
+        "english_peamg": "Operations"
+      },
+      "5.234": {
+        "german": "Operationen",
+        "english_ogden": "operations",
+        "english_peamg": "operations"
+      },
+      "5.2341": {
+        "german": "Operationen",
+        "english_ogden": "operations",
+        "english_peamg": "operations"
+      },
+      "5.25": {
+        "german": "Operation",
+        "english_ogden": "operation",
+        "english_peamg": "operation"
+      },
+      "5.2521": {
+        "german": "Operation",
+        "english_ogden": "operation",
+        "english_peamg": "operation"
+      },
+      "5.253": {
+        "german": "Operation",
+        "english_ogden": "operation",
+        "english_peamg": "operation"
+      },
+      "5.254": {
+        "german": "Operation",
+        "english_ogden": "Operations",
+        "english_peamg": "operation"
+      },
+      "5.3": {
+        "german": "Wahrheitsoperationen",
+        "english_ogden": "truth-operations",
+        "english_peamg": "truth- operations"
+      },
+      "5.32": {
+        "german": "Wahrheitsoperationen",
+        "english_ogden": "truth-operations",
+        "english_peamg": "truth-operations"
+      },
+      "5.41": {
+        "german": "Wahrheitsoperationen",
+        "english_ogden": "truth-operations",
+        "english_peamg": "truth- operations"
+      },
+      "5.442": {
+        "german": "Wahrheitsoperationen",
+        "english_ogden": "truth-operations",
+        "english_peamg": "truth-operations"
+      },
+      "5.4611": {
+        "german": "Operationszeichen",
+        "english_ogden": "operation signs",
+        "english_peamg": "operations"
+      },
+      "5.47": {
+        "german": "Operationen",
+        "english_ogden": "operations",
+        "english_peamg": "operations"
+      },
+      "5.474": {
+        "german": "Grundoperationen",
+        "english_ogden": "operations",
+        "english_peamg": "operations"
+      },
+      "5.54": {
+        "german": "Wahrheitsoperationen",
+        "english_ogden": "truth-operations",
+        "english_peamg": "truth-operations"
+      },
+      "6.126": {
+        "german": "Operationen",
+        "english_ogden": "operations",
+        "english_peamg": "operations"
+      }
+    }
+  },
+  {
+    "Space": {
+      "1.13": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.0121": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.013": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.0131": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.0251": {
+        "german": "Raum",
+        "english_ogden": "Space",
+        "english_peamg": "Space"
+      },
+      "2.11": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.202": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "3.032": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "3.4": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "3.42": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "4.463": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "6.3611": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "6.36111": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "6.4312": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      }
+    }
+  },
+  {
+    "Truth-function": {
+      "3.3441": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-functions"
+      },
+      "5": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-function"
+      },
+      "5.1": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "Truth-functions"
+      },
+      "5.101": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-functions"
+      },
+      "5.234": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "Truth-functions"
+      },
+      "5.2341": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-function",
+        "english_peamg": "truth-function"
+      },
+      "5.3": {
+        "german": "Wahrheitsoperationen",
+        "english_ogden": "truth-operations",
+        "english_peamg": "truth- operations"
+      },
+      "5.31": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-function",
+        "english_peamg": "truth-function"
+      },
+      "5.32": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-functions"
+      },
+      "5.41": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-functions"
+      },
+      "5.44": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "Truth-functions",
+        "english_peamg": "Truth-functions"
+      },
+      "5.5": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-function",
+        "english_peamg": "truth-function"
+      },
+      "5.521": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-function",
+        "english_peamg": "truth-functions"
+      },
+      "6": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth function",
+        "english_peamg": "truth-function"
+      }
+    }
+  },
+  {
+    "a priori": {
+      "2.225": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "3.04": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "3.05": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "5.133": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "5.4541": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "5.4731": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "5.55": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "5.5541": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "5.5571": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "5.634": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "6.31": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "6.3211": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "6.33": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "6.34": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      },
+      "6.35": {
+        "german": "a priori",
+        "english_ogden": "a priori",
+        "english_peamg": "a priori"
+      }
+    }
+  },
+  {
+    "agreement": {
+      "2.222": {
+        "german": "Übereinstimmung",
+        "english_ogden": "agreement",
+        "english_peamg": "agreement"
+      },
+      "3.315": {
+        "german": "Übereinkunft",
+        "english_ogden": "agreement",
+        "english_peamg": "conventions"
+      },
+      "4.2": {
+        "german": "Übereinstimmung",
+        "english_ogden": "agreement",
+        "english_peamg": "agreement"
+      },
+      "4.4": {
+        "german": "Übereinstimmung",
+        "english_ogden": "agreement",
+        "english_peamg": "agreement"
+      },
+      "4.42": {
+        "german": "Übereinstimmung",
+        "english_ogden": "agreement",
+        "english_peamg": "agree"
+      },
+      "4.43": {
+        "german": "Übereinstimmung",
+        "english_ogden": "agreement",
+        "english_peamg": "agreement"
+      },
+      "4.431": {
+        "german": "Übereinstimmung",
+        "english_ogden": "agreement",
+        "english_peamg": "agreement"
+      },
+      "4.462": {
+        "german": "Übereinstimmung",
+        "english_ogden": "agreement",
+        "english_peamg": "agreement"
+      },
+      "5.02": {
+        "german": "Übereinkunft",
+        "english_ogden": "agreement",
+        "english_peamg": "convention"
+      },
+      "5.512": {
+        "german": "Stimmen",
+        "english_ogden": "agreement",
+        "english_peamg": "agree"
+      }
+    }
+  },
+  {
+    "arbitrary": {
+      "3.315": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "3.322": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "3.342": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "3.3442": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrarily",
+        "english_peamg": "arbitrary"
+      },
+      "4.466": {
+        "german": "beliebige",
+        "english_ogden": "arbitrary",
+        "english_peamg": "absolutely any"
+      },
+      "5.02": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "5.473": {
+        "german": "willkürliche",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "5.47321": {
+        "german": "willkürliche",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "5.554": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "6.124": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "6.1271": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrary",
+        "english_peamg": "arbitrary"
+      },
+      "6.341": {
+        "german": "willkürlich",
+        "english_ogden": "arbitrary",
+        "english_peamg": "optional"
+      }
+    }
+  },
+  {
+    "argument": {
+      "2.0131": {
+        "german": "Argumentstelle",
+        "english_ogden": "argument place",
+        "english_peamg": "argument- place"
+      },
+      "3.333": {
+        "german": "Argument",
+        "english_ogden": "argument",
+        "english_peamg": "argument"
+      },
+      "4.0411": {
+        "german": "Argumentstellen",
+        "english_ogden": "argument places",
+        "english_peamg": "argument-places"
+      },
+      "4.431": {
+        "german": "Argumente",
+        "english_ogden": "arguments",
+        "english_peamg": "arguments"
+      },
+      "5.01": {
+        "german": "Wahrheitsargumente",
+        "english_ogden": "truth-arguments",
+        "english_peamg": "truth- arguments"
+      },
+      "5.02": {
+        "german": "Argumente",
+        "english_ogden": "arguments",
+        "english_peamg": "arguments"
+      },
+      "5.101": {
+        "german": "Wahrheitsargumente",
+        "english_ogden": "truth-arguments",
+        "english_peamg": "truth-arguments"
+      },
+      "5.152": {
+        "german": "Wahrheitsargumente",
+        "english_ogden": "truth-arguments",
+        "english_peamg": "truth-arguments"
+      },
+      "5.251": {
+        "german": "Argument",
+        "english_ogden": "argument",
+        "english_peamg": "argument"
+      },
+      "5.47": {
+        "german": "Argument",
+        "english_ogden": "argument",
+        "english_peamg": "argument"
+      },
+      "5.523": {
+        "german": "Argument",
+        "english_ogden": "argument",
+        "english_peamg": "argument"
+      },
+      "5.5351": {
+        "german": "Argument",
+        "english_ogden": "argument",
+        "english_peamg": "argument"
+      },
+      "6.1203": {
+        "german": "Argument",
+        "english_ogden": "argument",
+        "english_peamg": "argument"
+      }
+    }
+  },
+  {
+    "atomic facts": {
+      "2": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.0121": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.0123": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.0124": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.013": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.0141": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.034": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.04": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.05": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.06": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.061": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.11": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "2.201": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "4.1": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "4.122": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "4.2": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "4.2211": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "4.27": {
+        "german": "Sachverhalten",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      },
+      "4.3": {
+        "german": "Sachverhalte",
+        "english_ogden": "atomic facts",
+        "english_peamg": "states of affairs"
+      }
+    }
+  },
+  {
+    "combination": {
+      "2.01": {
+        "german": "Verbindung",
+        "english_ogden": "combination",
+        "english_peamg": "combination"
+      },
+      "2.0121": {
+        "german": "Verbindung",
+        "english_ogden": "connexion",
+        "english_peamg": "combining"
+      },
+      "3.24": {
+        "german": "Zusammenfassung",
+        "english_ogden": "combination",
+        "english_peamg": "contraction"
+      },
+      "4.221": {
+        "german": "Satzverband",
+        "english_ogden": "connexion",
+        "english_peamg": "combination"
+      },
+      "4.27": {
+        "german": "Kombinationen",
+        "english_ogden": "combinations",
+        "english_peamg": "combination"
+      },
+      "4.28": {
+        "german": "Kombinationen",
+        "english_ogden": "combinations",
+        "english_peamg": "combinations"
+      },
+      "4.442": {
+        "german": "Kombinationsregel",
+        "english_ogden": "combination",
+        "english_peamg": "combinatory"
+      },
+      "4.466": {
+        "german": "Verbindung",
+        "english_ogden": "combination",
+        "english_peamg": "combination"
+      },
+      "5.451": {
+        "german": "Verbindungen",
+        "english_ogden": "combination",
+        "english_peamg": "combinations"
+      },
+      "5.46": {
+        "german": "Kombinationen",
+        "english_ogden": "combinations",
+        "english_peamg": "combinations"
+      },
+      "6.1201": {
+        "german": "Verbindung",
+        "english_ogden": "connexion",
+        "english_peamg": "combination"
+      },
+      "6.1203": {
+        "german": "Verbindung",
+        "english_ogden": "combination",
+        "english_peamg": "combination"
+      },
+      "6.1211": {
+        "german": "",
+        "english_ogden": "",
+        "english_peamg": "combination"
+      },
+      "6.124": {
+        "german": "Verbindungen",
+        "english_ogden": "combinations",
+        "english_peamg": "combinations"
+      }
+    }
+  },
+  {
+    "concept": {
+      "3.325": {
+        "german": "Begriffsschrift",
+        "english_ogden": "conceptual notation",
+        "english_peamg": "conceptual notation"
+      },
+      "4.062": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.063": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.1213": {
+        "german": "Auffassung",
+        "english_ogden": "conception",
+        "english_peamg": "point of view"
+      },
+      "4.126": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.127": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.1271": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.1272": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.12721": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.1273": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.1274": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "4.431": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "5.2523": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "5.521": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "5.533": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical notation",
+        "english_peamg": "conceptual notation"
+      },
+      "5.534": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical notation",
+        "english_peamg": "conceptual notation"
+      },
+      "5.555": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "6.022": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "6.125": {
+        "german": "Auffassung",
+        "english_ogden": "conception",
+        "english_peamg": "conception"
+      },
+      "6.371": {
+        "german": "Täuschung",
+        "english_ogden": "illusion",
+        "english_peamg": "illusion"
+      }
+    }
+  },
+  {
+    "condition": {
+      "4.063": {
+        "german": "Bedingung",
+        "english_ogden": "conditions",
+        "english_peamg": "circumstances"
+      },
+      "4.41": {
+        "german": "Bedingungen",
+        "english_ogden": "conditions",
+        "english_peamg": "conditions"
+      },
+      "4.431": {
+        "german": "Bedingungen",
+        "english_ogden": "conditions",
+        "english_peamg": "conditions"
+      },
+      "4.442": {
+        "german": "Bedingung",
+        "english_ogden": "condition",
+        "english_peamg": "condition"
+      },
+      "4.45": {
+        "german": "Bedingungen",
+        "english_ogden": "conditions",
+        "english_peamg": "conditions"
+      },
+      "4.46": {
+        "german": "Bedingungen",
+        "english_ogden": "conditions",
+        "english_peamg": "conditions"
+      },
+      "4.461": {
+        "german": "Bedingungen",
+        "english_ogden": "conditions",
+        "english_peamg": "conditions"
+      },
+      "4.462": {
+        "german": "Bedingungen",
+        "english_ogden": "conditions",
+        "english_peamg": "conditions"
+      },
+      "4.463": {
+        "german": "Bedingungen",
+        "english_ogden": "conditions",
+        "english_peamg": "conditions"
+      },
+      "5.5422": {
+        "german": "Bedingung",
+        "english_ogden": "condition",
+        "english_peamg": "requirement"
+      }
+    }
+  },
+  {
+    "connexion": {
+      "2.0121": {
+        "german": "Zusammenhang",
+        "english_ogden": "connexion",
+        "english_peamg": "connexion"
+      },
+      "2.0122": {
+        "german": "Zusammenhang",
+        "english_ogden": "connexion",
+        "english_peamg": "connexion"
+      },
+      "2.15": {
+        "german": "Zusammenhang",
+        "english_ogden": "connexion",
+        "english_peamg": "connexion"
+      },
+      "4.03": {
+        "german": "Zusammenhang",
+        "english_ogden": "connexion",
+        "english_peamg": "connexion"
+      },
+      "4.22": {
+        "german": "Verkettung",
+        "english_ogden": "connexion",
+        "english_peamg": "nexus"
+      },
+      "4.221": {
+        "german": "Satzverband",
+        "english_ogden": "connexion",
+        "english_peamg": "combination"
+      },
+      "5.1311": {
+        "german": "Beziehung",
+        "english_ogden": "connexion",
+        "english_peamg": "relation"
+      },
+      "5.1362": {
+        "german": "Zusammenhang",
+        "english_ogden": "connexion",
+        "english_peamg": "connexion"
+      },
+      "5.521": {
+        "german": "Verbindung",
+        "english_ogden": "connexion",
+        "english_peamg": "association"
+      },
+      "6.1201": {
+        "german": "Verbindung",
+        "english_ogden": "connexion",
+        "english_peamg": "combination"
+      },
+      "6.1221": {
+        "german": "Verbindung",
+        "english_ogden": "connexion",
+        "english_peamg": null
+      },
+      "6.124": {
+        "german": "Verbindung",
+        "english_ogden": "connexion",
+        "english_peamg": "connexion"
+      },
+      "6.361": {
+        "german": "Zusammenhänge",
+        "english_ogden": "connexions",
+        "english_peamg": "connexions"
+      },
+      "6.374": {
+        "german": "Zusammenhang",
+        "english_ogden": "connexion",
+        "english_peamg": "connexion"
+      }
+    }
+  },
+  {
+    "constant": {
+      "3.312": {
+        "german": "konstant",
+        "english_ogden": "constant",
+        "english_peamg": "constant"
+      },
+      "3.313": {
+        "german": "Konstanten",
+        "english_ogden": "constant",
+        "english_peamg": "constant"
+      },
+      "4.0312": {
+        "german": "konstanten",
+        "english_ogden": "constant",
+        "english_peamg": "constant"
+      },
+      "4.126": {
+        "german": "konstant",
+        "english_ogden": "constant",
+        "english_peamg": "constant"
+      },
+      "4.1271": {
+        "german": "konstante",
+        "english_ogden": "constant",
+        "english_peamg": "constant"
+      },
+      "5.4": {
+        "german": "Konstante",
+        "english_ogden": "constants",
+        "english_peamg": "constants"
+      },
+      "5.441": {
+        "german": "Konstanten",
+        "english_ogden": "constants",
+        "english_peamg": "constants"
+      },
+      "5.47": {
+        "german": "Konstanten",
+        "english_ogden": "constants",
+        "english_peamg": "constants"
+      },
+      "5.501": {
+        "german": "Konstante",
+        "english_ogden": "constant",
+        "english_peamg": "constants"
+      },
+      "5.522": {
+        "german": "Konstante",
+        "english_ogden": "constants",
+        "english_peamg": "constants"
+      },
+      "5.525": {
+        "german": "Konstante",
+        "english_ogden": "constants",
+        "english_peamg": "constants"
+      },
+      "6.211": {
+        "german": "Konstanten",
+        "english_ogden": "constant",
+        "english_peamg": "constant"
+      }
+    }
+  },
+  {
+    "constituent": {
+      "2.011": {
+        "german": "Bestandteil",
+        "english_ogden": "constituent",
+        "english_peamg": "constituents"
+      },
+      "2.0201": {
+        "german": "Bestandteile",
+        "english_ogden": "constituent parts",
+        "english_peamg": "constituents"
+      },
+      "3.24": {
+        "german": "Bestandteil",
+        "english_ogden": "constituent part",
+        "english_peamg": "constituent"
+      },
+      "3.315": {
+        "german": "Bestandteil",
+        "english_ogden": "constituent part",
+        "english_peamg": "constituent"
+      },
+      "3.4": {
+        "german": "Bestandteile",
+        "english_ogden": "constituent parts",
+        "english_peamg": "constituents"
+      },
+      "4.024": {
+        "german": "Bestandteile",
+        "english_ogden": "constituent parts",
+        "english_peamg": "constituents"
+      },
+      "4.025": {
+        "german": "Satzbestandteile",
+        "english_ogden": "constituent parts",
+        "english_peamg": "constituents"
+      },
+      "5.4733": {
+        "german": "Bestandteile",
+        "english_ogden": "constituent parts",
+        "english_peamg": "constituents"
+      },
+      "5.533": {
+        "german": "Bestandteil",
+        "english_ogden": "constituent",
+        "english_peamg": "constituent"
+      },
+      "5.5423": {
+        "german": "Bestandteile",
+        "english_ogden": "constituents",
+        "english_peamg": "constituents"
+      },
+      "6.12": {
+        "german": "Bestandteile",
+        "english_ogden": "constituent parts",
+        "english_peamg": "constituents"
+      }
+    }
+  },
+  {
+    "contradiction": {
+      "4.46": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "4.461": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradictions"
+      },
+      "4.4611": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradictions"
+      },
+      "4.462": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradictions"
+      },
+      "4.463": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "4.464": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "4.466": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "4.4661": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradictions"
+      },
+      "5.143": {
+        "german": "Kontradiktion",
+        "english_ogden": "Contradiction",
+        "english_peamg": "Contradiction"
+      },
+      "5.152": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "5.525": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "6.1202": {
+        "german": "Kontradiktionen",
+        "english_ogden": "contradictions",
+        "english_peamg": "contradictions"
+      },
+      "6.1203": {
+        "german": "Widerspruch",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "6.123": {
+        "german": "Widerspruch",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      },
+      "6.3751": {
+        "german": "Kontradiktion",
+        "english_ogden": "contradiction",
+        "english_peamg": "contradiction"
+      }
+    }
+  },
+  {
+    "correct": {
+      "2.17": {
+        "german": "richtig",
+        "english_ogden": "rightly",
+        "english_peamg": "correctly"
+      },
+      "2.173": {
+        "german": "richtig",
+        "english_ogden": "rightly",
+        "english_peamg": "correctly"
+      },
+      "2.18": {
+        "german": "richtig",
+        "english_ogden": "rightly",
+        "english_peamg": "correctly"
+      },
+      "2.21": {
+        "german": "richtig",
+        "english_ogden": "right",
+        "english_peamg": "correct"
+      },
+      "3.04": {
+        "german": "richtiger",
+        "english_ogden": "true",
+        "english_peamg": "correct"
+      },
+      "3.343": {
+        "german": "richtige",
+        "english_ogden": "correct",
+        "english_peamg": "correct"
+      },
+      "4.1213": {
+        "german": "richtigen",
+        "english_ogden": "right",
+        "english_peamg": "correct"
+      },
+      "4.1272": {
+        "german": "richtig",
+        "english_ogden": "rightly",
+        "english_peamg": "correctly"
+      },
+      "4.1273": {
+        "german": "falsch",
+        "english_ogden": "false",
+        "english_peamg": "incorrect"
+      },
+      "5.45": {
+        "german": "richtige",
+        "english_ogden": "correct",
+        "english_peamg": "incorrect"
+      },
+      "5.525": {
+        "german": "unrichtig",
+        "english_ogden": "correct",
+        "english_peamg": "incorrect"
+      },
+      "5.5302": {
+        "german": "genügt nicht",
+        "english_ogden": "won’t do",
+        "english_peamg": "inadequate"
+      },
+      "5.534": {
+        "german": "richtigen",
+        "english_ogden": "correct",
+        "english_peamg": "correct"
+      },
+      "5.5422": {
+        "german": "richtige",
+        "english_ogden": "correct",
+        "english_peamg": "correct"
+      },
+      "5.62": {
+        "german": "richtig",
+        "english_ogden": "correct",
+        "english_peamg": "correct"
+      },
+      "6.112": {
+        "german": "richtige",
+        "english_ogden": "correct",
+        "english_peamg": "correct"
+      },
+      "6.2321": {
+        "german": "Richtigkeit",
+        "english_ogden": "correctness",
+        "english_peamg": "correctness"
+      },
+      "6.53": {
+        "german": "richtige",
+        "english_ogden": "right",
+        "english_peamg": "correct"
+      }
+    }
+  },
+  {
+    "correspond": {
+      "2.13": {
+        "german": "entsprechen",
+        "english_ogden": "correspond",
+        "english_peamg": "corresponding"
+      },
+      "3.2": {
+        "german": "entsprechen",
+        "english_ogden": "correspond",
+        "english_peamg": "correspond"
+      },
+      "3.21": {
+        "german": "entspricht",
+        "english_ogden": "corresponds",
+        "english_peamg": "corresponds"
+      },
+      "3.315": {
+        "german": "entspricht",
+        "english_ogden": "corresponds",
+        "english_peamg": "corresponds"
+      },
+      "4.0621": {
+        "german": "entspricht",
+        "english_ogden": "corresponds",
+        "english_peamg": "corresponds"
+      },
+      "4.063": {
+        "german": "entspricht",
+        "english_ogden": "corresponds",
+        "english_peamg": "corresponds"
+      },
+      "4.1121": {
+        "german": "entspricht",
+        "english_ogden": "correspond",
+        "english_peamg": "correspond"
+      },
+      "4.123": {
+        "german": "entspricht",
+        "english_ogden": "corresponds",
+        "english_peamg": "corresponds"
+      },
+      "4.28": {
+        "german": "entsprechen",
+        "english_ogden": "correspond",
+        "english_peamg": "correspond"
+      },
+      "4.441": {
+        "german": "entspricht",
+        "english_ogden": "corresponds",
+        "english_peamg": "corresponding"
+      },
+      "4.466": {
+        "german": "entspricht",
+        "english_ogden": "corresponds",
+        "english_peamg": "corresponds"
+      },
+      "5.5542": {
+        "german": "entsprechen",
+        "english_ogden": "correspond",
+        "english_peamg": "correspond"
+      },
+      "6.341": {
+        "german": "entsprechen",
+        "english_ogden": "correspond",
+        "english_peamg": "correspond"
+      }
+    }
+  },
+  {
+    "definition": {
+      "3.24": {
+        "german": "Definition",
+        "english_ogden": "definition",
+        "english_peamg": "definition"
+      },
+      "3.26": {
+        "german": "Definition",
+        "english_ogden": "definition",
+        "english_peamg": "definition"
+      },
+      "3.261": {
+        "german": "Definitionen",
+        "english_ogden": "definition",
+        "english_peamg": "definition"
+      },
+      "3.343": {
+        "german": "Definitionen",
+        "english_ogden": "Definitions",
+        "english_peamg": "Definitions"
+      },
+      "4.241": {
+        "german": "Definition",
+        "english_ogden": "definition",
+        "english_peamg": "definition"
+      },
+      "5.154": {
+        "german": "Erklärungen",
+        "english_ogden": "explanations",
+        "english_peamg": "definitions"
+      },
+      "5.42": {
+        "german": "Definierens",
+        "english_ogden": "definition",
+        "english_peamg": "inter definability"
+      },
+      "5.451": {
+        "german": "Einführung",
+        "english_ogden": "introduction",
+        "english_peamg": "introduction"
+      },
+      "5.452": {
+        "german": "Einführung",
+        "english_ogden": "introduction",
+        "english_peamg": "introduction"
+      },
+      "5.5302": {
+        "german": "Definition",
+        "english_ogden": "definition",
+        "english_peamg": "definition"
+      },
+      "6.02": {
+        "german": "definiere",
+        "english_ogden": "define",
+        "english_peamg": "definitions"
+      }
+    }
+  },
+  {
+    "description": {
+      "2.02331": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "3.24": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "3.317": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "3.33": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "4.023": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "4.26": {
+        "german": "Angabe",
+        "english_ogden": "specification",
+        "english_peamg": "description"
+      },
+      "4.5": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "5.02": {
+        "german": "Bezeichnung",
+        "english_ogden": "symbolizing",
+        "english_peamg": "use"
+      },
+      "5.156": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "5.4711": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "5.472": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "5.501": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "6.125": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "6.341": {
+        "german": "Weltbeschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "6.343": {
+        "german": "Weltbeschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "6.3432": {
+        "german": "Weltbeschreibung",
+        "english_ogden": "description",
+        "english_peamg": "description"
+      },
+      "6.3611": {
+        "german": "Beschreibung",
+        "english_ogden": "description",
+        "english_peamg": "describe"
+      }
+    }
+  },
+  {
+    "determinate": {
+      "2.031": {
+        "german": "bestimmter Art und Weise",
+        "english_ogden": "definite",
+        "english_peamg": "determinate"
+      },
+      "2.032": {
+        "german": "Art und Weise",
+        "english_ogden": "way",
+        "english_peamg": "determinate"
+      },
+      "2.14": {
+        "german": "bestimmter Art und Weise",
+        "english_ogden": "definite",
+        "english_peamg": "determinate"
+      },
+      "2.15": {
+        "german": "bestimmter Art und Weise",
+        "english_ogden": "definite",
+        "english_peamg": "determinate"
+      },
+      "3.14": {
+        "german": "bestimmte Art und Weise",
+        "english_ogden": "definite",
+        "english_peamg": "determinate"
+      },
+      "3.23": {
+        "german": "Bestimmtheit",
+        "english_ogden": "determinateness",
+        "english_peamg": "determinate"
+      },
+      "3.24": {
+        "german": "Unbestimmtheit",
+        "english_ogden": "indeterminateness",
+        "english_peamg": "undetermined"
+      },
+      "3.251": {
+        "german": "bestimmte",
+        "english_ogden": "definite",
+        "english_peamg": "determinate"
+      },
+      "4.466": {
+        "german": "bestimmten",
+        "english_ogden": "definite",
+        "english_peamg": "determinate"
+      },
+      "6.124": {
+        "german": "bestimmten",
+        "english_ogden": "definite",
+        "english_peamg": "determinate"
+      }
+    }
+  },
+  {
+    "display": {
+      "2.172": {
+        "german": "weist sie auf",
+        "english_ogden": "shows it forth",
+        "english_peamg": "displays"
+      },
+      "4.115": {
+        "german": "darstellt",
+        "english_ogden": "displaying",
+        "english_peamg": "display"
+      },
+      "4.121": {
+        "german": "spiegelt sich",
+        "english_ogden": "mirrors",
+        "english_peamg": "display"
+      },
+      "4.27": {
+        "german": "bestehen",
+        "english_ogden": "exist",
+        "english_peamg": "display"
+      },
+      "4.42": {
+        "german": "Übereinstimmung",
+        "english_ogden": "agreement",
+        "english_peamg": "display"
+      },
+      "4.442": {
+        "german": "zeigt",
+        "english_ogden": "shows",
+        "english_peamg": "display"
+      },
+      "5.501": {
+        "german": "deute",
+        "english_ogden": "indicate",
+        "english_peamg": "display"
+      },
+      "5.502": {
+        "german": "schreibe",
+        "english_ogden": "write",
+        "english_peamg": "display"
+      },
+      "5.51": {
+        "german": "hat",
+        "english_ogden": "has",
+        "english_peamg": "display"
+      },
+      "5.52": {
+        "german": "sind",
+        "english_ogden": "are",
+        "english_peamg": "display"
+      },
+      "6": {
+        "german": "ist",
+        "english_ogden": "is",
+        "english_peamg": "display"
+      },
+      "6.001": {
+        "german": "ist",
+        "english_ogden": "is",
+        "english_peamg": "display"
+      },
+      "6.01": {
+        "german": "ist",
+        "english_ogden": "is",
+        "english_peamg": "display"
+      },
+      "6.02": {
+        "german": "schreiben",
+        "english_ogden": "write",
+        "english_peamg": "display"
+      },
+      "6.03": {
+        "german": "ist",
+        "english_ogden": "is",
+        "english_peamg": "display"
+      },
+      "6.241": {
+        "german": "lautet",
+        "english_ogden": "runs",
+        "english_peamg": "display"
+      }
+    }
+  },
+  {
+    "essence": {
+      "3.1431": {
+        "german": "Wesen",
+        "english_ogden": "essential nature",
+        "english_peamg": "essence"
+      },
+      "3.342": {
+        "german": "Wesen",
+        "english_ogden": "essence",
+        "english_peamg": "essence"
+      },
+      "3.3421": {
+        "german": "Wesen",
+        "english_ogden": "essence",
+        "english_peamg": "essence"
+      },
+      "4.013": {
+        "german": "Wesentliche",
+        "english_ogden": "essence",
+        "english_peamg": "essence"
+      },
+      "4.016": {
+        "german": "Wesen",
+        "english_ogden": "essence",
+        "english_peamg": "essential nature"
+      },
+      "4.027": {
+        "german": "Wesen",
+        "english_ogden": "essential",
+        "english_peamg": "essence"
+      },
+      "4.465": {
+        "german": "Wesentliche",
+        "english_ogden": "essence",
+        "english_peamg": "essential"
+      },
+      "5.3": {
+        "german": "Wesen",
+        "english_ogden": "nature",
+        "english_peamg": "essence"
+      },
+      "5.471": {
+        "german": "Wesen",
+        "english_ogden": "essence",
+        "english_peamg": "essence"
+      },
+      "5.4711": {
+        "german": "Wesen",
+        "english_ogden": "essence",
+        "english_peamg": "essence"
+      },
+      "6.124": {
+        "german": "Wesen",
+        "english_ogden": "nature",
+        "english_peamg": "essence"
+      }
+    }
+  },
+  {
+    "formal": {
+      "4.122": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "4.124": {
+        "german": "interne",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "4.1252": {
+        "german": "interne",
+        "english_ogden": "formal",
+        "english_peamg": "internal"
+      },
+      "4.126": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "4.127": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "4.1271": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "4.1272": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "4.12721": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "4.1273": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "4.1274": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "5.231": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "5.242": {
+        "german": "formale",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "5.252": {
+        "german": "Formenreihe",
+        "english_ogden": "formal",
+        "english_peamg": "series of forms"
+      },
+      "5.2522": {
+        "german": "Formenreihe",
+        "english_ogden": "formal",
+        "english_peamg": "series of forms"
+      },
+      "5.501": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "6.12": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      },
+      "6.122": {
+        "german": "formalen",
+        "english_ogden": "formal",
+        "english_peamg": "formal"
+      }
+    }
+  },
+  {
+    "general form": {
+      "3.312": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "4.1273": {
+        "german": "allgemeine Glied",
+        "english_ogden": "general term",
+        "english_peamg": "general term"
+      },
+      "4.5": {
+        "german": "allgemeinste Satzform",
+        "english_ogden": "most general form",
+        "english_peamg": "most general propositional form"
+      },
+      "5.46": {
+        "german": "allgemeinste Form",
+        "english_ogden": "most general form",
+        "english_peamg": "most general form"
+      },
+      "5.47": {
+        "german": "allgemeine Satzform",
+        "english_ogden": "general form",
+        "english_peamg": "general propositional form"
+      },
+      "5.471": {
+        "german": "allgemeine Satzform",
+        "english_ogden": "general form",
+        "english_peamg": "general propositional form"
+      },
+      "6": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "6.002": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "6.01": {
+        "german": "allgemeinste Form",
+        "english_ogden": "most general form",
+        "english_peamg": "most general form"
+      },
+      "6.022": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      },
+      "6.03": {
+        "german": "allgemeine Form",
+        "english_ogden": "general form",
+        "english_peamg": "general form"
+      }
+    }
+  },
+  {
+    "idea": {
+      "4.002": {
+        "german": "Ahnung",
+        "english_ogden": "idea",
+        "english_peamg": "idea"
+      },
+      "4.014": {
+        "german": "Gedanke",
+        "english_ogden": "thought",
+        "english_peamg": "idea"
+      },
+      "4.0312": {
+        "german": "Grundgedanke",
+        "english_ogden": "thought",
+        "english_peamg": "idea"
+      },
+      "4.0412": {
+        "german": "Erklärung",
+        "english_ogden": "explanation",
+        "english_peamg": "appeal"
+      },
+      "4.12721": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "5.451": {
+        "german": "Grundbegriffe",
+        "english_ogden": "ideas",
+        "english_peamg": "ideas"
+      },
+      "5.476": {
+        "german": "Grundbegriffen",
+        "english_ogden": "ideas",
+        "english_peamg": "ideas"
+      },
+      "5.521": {
+        "german": "Begriff",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "5.631": {
+        "german": "Subjekt",
+        "english_ogden": "subject",
+        "english_peamg": "subject"
+      },
+      "6.3211": {
+        "german": "Ahnung",
+        "english_ogden": "idea",
+        "english_peamg": "surmised"
+      }
+    }
+  },
+  {
+    "identical": {
+      "2.161": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      },
+      "3.323": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identity"
+      },
+      "4.003": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      },
+      "4.465": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      },
+      "5.41": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      },
+      "5.42": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      },
+      "5.473": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      },
+      "5.4733": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identity"
+      },
+      "5.5303": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      },
+      "5.5352": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      },
+      "6.3751": {
+        "german": "identisch",
+        "english_ogden": "identical",
+        "english_peamg": "identical"
+      }
+    }
+  },
+  {
+    "independent": {
+      "2.0122": {
+        "german": "selbständig",
+        "english_ogden": "independent",
+        "english_peamg": "independent"
+      },
+      "2.024": {
+        "german": "unabhängig",
+        "english_ogden": "independently",
+        "english_peamg": "independently"
+      },
+      "2.061": {
+        "german": "unabhängig",
+        "english_ogden": "independent",
+        "english_peamg": "independent"
+      },
+      "2.22": {
+        "german": "unabhängig",
+        "english_ogden": "independently",
+        "english_peamg": "independently"
+      },
+      "3.261": {
+        "german": "selbständig",
+        "english_ogden": "independently",
+        "english_peamg": "independently"
+      },
+      "4.061": {
+        "german": "unabhängigen",
+        "english_ogden": "independent",
+        "english_peamg": "independent"
+      },
+      "5.152": {
+        "german": "unabhängig",
+        "english_ogden": "independent",
+        "english_peamg": "independent"
+      },
+      "5.154": {
+        "german": "unabhängig",
+        "english_ogden": "independent",
+        "english_peamg": "independent"
+      },
+      "5.451": {
+        "german": "unabhängig",
+        "english_ogden": "independent",
+        "english_peamg": "independent"
+      },
+      "5.461": {
+        "german": "selbständige",
+        "english_ogden": "by themselves",
+        "english_peamg": "independent"
+      },
+      "5.5261": {
+        "german": "unabhängig",
+        "english_ogden": "independently",
+        "english_peamg": "independently"
+      },
+      "5.5561": {
+        "german": "unabhängig",
+        "english_ogden": "independent",
+        "english_peamg": "independent"
+      },
+      "6.373": {
+        "german": "unabhängig",
+        "english_ogden": "independent",
+        "english_peamg": "independent"
+      }
+    }
+  },
+  {
+    "indicate": {
+      "2.02331": {
+        "german": "hinweisen",
+        "english_ogden": "point to",
+        "english_peamg": "indicate"
+      },
+      "3.322": {
+        "german": "anzeigen",
+        "english_ogden": "indicate",
+        "english_peamg": "indicate"
+      },
+      "3.3441": {
+        "german": "ausdrücken",
+        "english_ogden": "express",
+        "english_peamg": "express"
+      },
+      "4.063": {
+        "german": "zeigen",
+        "english_ogden": "indicate",
+        "english_peamg": "indicate"
+      },
+      "4.122": {
+        "german": "zeigen",
+        "english_ogden": "show",
+        "english_peamg": "indicate"
+      },
+      "4.24": {
+        "german": "andeuten",
+        "english_ogden": "indicate",
+        "english_peamg": "indicate"
+      },
+      "4.442": {
+        "german": "anzeigen",
+        "english_ogden": "indicates",
+        "english_peamg": "indicates"
+      },
+      "5.02": {
+        "german": "hinweist",
+        "english_ogden": "indicates",
+        "english_peamg": "indicates"
+      },
+      "5.501": {
+        "german": "deute",
+        "english_ogden": "indicate",
+        "english_peamg": "indicate"
+      },
+      "5.522": {
+        "german": "hinweist",
+        "english_ogden": "refers to",
+        "english_peamg": "indicates"
+      },
+      "6.121": {
+        "german": "zeigt",
+        "english_ogden": "shows",
+        "english_peamg": "indicates"
+      },
+      "6.124": {
+        "german": "anzeigen",
+        "english_ogden": "show",
+        "english_peamg": "indicated"
+      }
+    }
+  },
+  {
+    "infer": {
+      "2.062": {
+        "german": "geschlossen",
+        "english_ogden": "infer",
+        "english_peamg": "infer"
+      },
+      "4.002": {
+        "german": "schliessen",
+        "english_ogden": "infer",
+        "english_peamg": "infer"
+      },
+      "4.023": {
+        "german": "Schlüsse ziehen",
+        "english_ogden": "infer",
+        "english_peamg": "infer"
+      },
+      "5.1311": {
+        "german": "schliessen",
+        "english_ogden": "infer",
+        "english_peamg": "infer"
+      },
+      "5.132": {
+        "german": "schliessen",
+        "english_ogden": "infer",
+        "english_peamg": "inference"
+      },
+      "5.133": {
+        "german": "Folgern",
+        "english_ogden": "inference",
+        "english_peamg": "inference"
+      },
+      "5.134": {
+        "german": "folgern",
+        "english_ogden": "inferred",
+        "english_peamg": "deduced"
+      },
+      "5.135": {
+        "german": "geschlossen",
+        "english_ogden": "inference",
+        "english_peamg": "inference"
+      },
+      "5.136": {
+        "german": "Schluss",
+        "english_ogden": "inference",
+        "english_peamg": "inference"
+      },
+      "5.1361": {
+        "german": "erschliessen",
+        "english_ogden": "inferred",
+        "english_peamg": "infer"
+      },
+      "5.1362": {
+        "german": "Schlusses",
+        "english_ogden": "deduction",
+        "english_peamg": "inference"
+      },
+      "5.152": {
+        "german": "Schlusses",
+        "english_ogden": "conclusion",
+        "english_peamg": "inference"
+      },
+      "5.633": {
+        "german": "schliessen",
+        "english_ogden": "concluded",
+        "english_peamg": "infer"
+      },
+      "6.1224": {
+        "german": "Schliessen",
+        "english_ogden": "inference",
+        "english_peamg": "inference"
+      },
+      "6.211": {
+        "german": "schliessen",
+        "english_ogden": "infer",
+        "english_peamg": "inferences"
+      }
+    }
+  },
+  {
+    "internal": {
+      "2.01231": {
+        "german": "internen",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "3.24": {
+        "german": "interner",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.014": {
+        "german": "internen",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.0141": {
+        "german": "innere",
+        "english_ogden": "internal",
+        "english_peamg": "inner"
+      },
+      "4.023": {
+        "german": "internen",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.122": {
+        "german": "interne",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.1221": {
+        "german": "interne",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.123": {
+        "german": "intern",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.124": {
+        "german": "interne",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.125": {
+        "german": "interne",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.1251": {
+        "german": "intern",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "4.1252": {
+        "german": "internen",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "5.131": {
+        "german": "intern",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "5.2": {
+        "german": "internen",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "5.21": {
+        "german": "internen",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "5.231": {
+        "german": "internen",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      },
+      "5.232": {
+        "german": "interne",
+        "english_ogden": "internal",
+        "english_peamg": "internal"
+      }
+    }
+  },
+  {
+    "limit": {
+      "3.313": {
+        "german": "Grenzfall",
+        "english_ogden": "limiting",
+        "english_peamg": "limiting"
+      },
+      "4.112": {
+        "german": "abgrenzen",
+        "english_ogden": "delimit",
+        "english_peamg": "boundaries"
+      },
+      "4.113": {
+        "german": "begrenzt",
+        "english_ogden": "limits",
+        "english_peamg": "limits"
+      },
+      "4.114": {
+        "german": "abgrenzen",
+        "english_ogden": "limit",
+        "english_peamg": "limits"
+      },
+      "4.463": {
+        "german": "Grenzfälle",
+        "english_ogden": "limiting",
+        "english_peamg": "limiting"
+      },
+      "4.466": {
+        "german": "Grenzfälle",
+        "english_ogden": "limiting",
+        "english_peamg": "limiting"
+      },
+      "4.51": {
+        "german": "begrenzt",
+        "english_ogden": "limited",
+        "english_peamg": "limits"
+      },
+      "5.143": {
+        "german": "Grenze",
+        "english_ogden": "limit",
+        "english_peamg": "limit"
+      },
+      "5.152": {
+        "german": "Grenzfall",
+        "english_ogden": "limiting",
+        "english_peamg": "limiting"
+      },
+      "5.5262": {
+        "german": "begrenzen",
+        "english_ogden": "delimit",
+        "english_peamg": "delimited"
+      },
+      "5.5561": {
+        "german": "begrenzt",
+        "english_ogden": "limited",
+        "english_peamg": "limited"
+      },
+      "5.6": {
+        "german": "Grenzen",
+        "english_ogden": "limits",
+        "english_peamg": "limits"
+      },
+      "5.61": {
+        "german": "Grenzen",
+        "english_ogden": "limits",
+        "english_peamg": "limits"
+      },
+      "5.62": {
+        "german": "Grenzen",
+        "english_ogden": "limits",
+        "english_peamg": "limits"
+      },
+      "5.632": {
+        "german": "Grenze",
+        "english_ogden": "limit",
+        "english_peamg": "limit"
+      },
+      "5.641": {
+        "german": "Grenze",
+        "english_ogden": "limit",
+        "english_peamg": "limit"
+      },
+      "6.43": {
+        "german": "Grenzen",
+        "english_ogden": "limits",
+        "english_peamg": "limits"
+      },
+      "6.4311": {
+        "german": "grenzenlos",
+        "english_ogden": "limit",
+        "english_peamg": "limits"
+      },
+      "6.45": {
+        "german": "begrenztes",
+        "english_ogden": "limited",
+        "english_peamg": "limited"
+      }
+    }
+  },
+  {
+    "logical form": {
+      "2.0233": {
+        "german": "logischen Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "2.18": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "2.181": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "2.2": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logico-pictorial form"
+      },
+      "3.315": {
+        "german": "logischen Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "3.327": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "4.0031": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "4.12": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "4.121": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "4.128": {
+        "german": "logischen Formen",
+        "english_ogden": "logical forms",
+        "english_peamg": "Logical forms"
+      },
+      "5.555": {
+        "german": "logischen Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical forms"
+      },
+      "6.23": {
+        "german": "logische Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      },
+      "6.33": {
+        "german": "logischen Form",
+        "english_ogden": "logical form",
+        "english_peamg": "logical form"
+      }
+    }
+  },
+  {
+    "manifest": {
+      "4.122": {
+        "german": "zeigt sich",
+        "english_ogden": "shows itself",
+        "english_peamg": "makes itself manifest"
+      },
+      "5.24": {
+        "german": "zeigt sich",
+        "english_ogden": "shows itself",
+        "english_peamg": "manifests itself"
+      },
+      "5.4": {
+        "german": "zeigt es sich",
+        "english_ogden": "becomes clear",
+        "english_peamg": "becomes manifest"
+      },
+      "5.513": {
+        "german": "zeigt sich",
+        "english_ogden": "appears evident",
+        "english_peamg": "is manifest"
+      },
+      "5.515": {
+        "german": "zeigen",
+        "english_ogden": "recognized",
+        "english_peamg": "manifest"
+      },
+      "5.5561": {
+        "german": "zeigt sich",
+        "english_ogden": "appears",
+        "english_peamg": "makes it-self manifest"
+      },
+      "5.62": {
+        "german": "zeigt sich",
+        "english_ogden": "shows itself",
+        "english_peamg": "makes itself manifest"
+      },
+      "6.23": {
+        "german": "zeigen",
+        "english_ogden": "show itself",
+        "english_peamg": "manifest"
+      },
+      "6.36": {
+        "german": "zeigt sich",
+        "english_ogden": "shows itself",
+        "english_peamg": "makes itself manifest"
+      },
+      "6.522": {
+        "german": "zeigt sich",
+        "english_ogden": "shows itself",
+        "english_peamg": "make themselves manifest"
+      }
+    }
+  },
+  {
+    "mathematics": {
+      "5.43": {
+        "german": "Mathematik",
+        "english_ogden": "mathematics",
+        "english_peamg": "mathematics"
+      },
+      "5.5351": {
+        "german": "Mathematik",
+        "english_ogden": "Mathematics",
+        "english_peamg": "Mathematics"
+      },
+      "6.031": {
+        "german": "Mathematik",
+        "english_ogden": "mathematics",
+        "english_peamg": "mathematics"
+      },
+      "6.2": {
+        "german": "Mathematik",
+        "english_ogden": "Mathematics",
+        "english_peamg": "Mathematics"
+      },
+      "6.21": {
+        "german": "Mathematik",
+        "english_ogden": "Mathematical",
+        "english_peamg": "mathematics"
+      },
+      "6.211": {
+        "german": "Mathematik",
+        "english_ogden": "mathematical",
+        "english_peamg": "mathematical"
+      },
+      "6.22": {
+        "german": "Mathematik",
+        "english_ogden": "mathematics",
+        "english_peamg": "mathematics"
+      },
+      "6.2321": {
+        "german": "Mathematik",
+        "english_ogden": "mathematics",
+        "english_peamg": "mathematics"
+      },
+      "6.234": {
+        "german": "Mathematik",
+        "english_ogden": "Mathematics",
+        "english_peamg": "Mathematics"
+      },
+      "6.2341": {
+        "german": "mathematischen",
+        "english_ogden": "mathematical",
+        "english_peamg": "mathematical"
+      },
+      "6.24": {
+        "german": "Mathematik",
+        "english_ogden": "mathematics",
+        "english_peamg": "mathematics"
+      }
+    }
+  },
+  {
+    "method": {
+      "3.11": {
+        "german": "Projektion",
+        "english_ogden": "method of projection",
+        "english_peamg": "method of projection"
+      },
+      "3.322": {
+        "german": "Bezeichnungsweisen",
+        "english_ogden": "methods of symbolizing",
+        "english_peamg": "modes of signification"
+      },
+      "3.3421": {
+        "german": "Bezeichnungsweise",
+        "english_ogden": "method of symbolizing",
+        "english_peamg": "mode of signifying"
+      },
+      "4.1121": {
+        "german": "Methode",
+        "english_ogden": "method",
+        "english_peamg": "method"
+      },
+      "4.431": {
+        "german": "Erklärung",
+        "english_ogden": "explanation",
+        "english_peamg": "method"
+      },
+      "5.1311": {
+        "german": "Bezeichnungsweise",
+        "english_ogden": "method of symbolizing",
+        "english_peamg": "mode of signifying"
+      },
+      "5.132": {
+        "german": "Art des Schlusses",
+        "english_ogden": "method of inference",
+        "english_peamg": "nature of the inference"
+      },
+      "5.631": {
+        "german": "Methode",
+        "english_ogden": "method",
+        "english_peamg": "method"
+      },
+      "6.1203": {
+        "german": "Methode",
+        "english_ogden": "method",
+        "english_peamg": "method"
+      },
+      "6.121": {
+        "german": "Methode",
+        "english_ogden": "method",
+        "english_peamg": "method"
+      },
+      "6.2": {
+        "german": "Methode",
+        "english_ogden": "method",
+        "english_peamg": "method"
+      },
+      "6.234": {
+        "german": "Methode",
+        "english_ogden": "method",
+        "english_peamg": "method"
+      },
+      "6.2341": {
+        "german": "Methode",
+        "english_ogden": "method",
+        "english_peamg": "method"
+      },
+      "6.24": {
+        "german": "Substitutionsmethode",
+        "english_ogden": "method of substitution",
+        "english_peamg": "method of substitution"
+      },
+      "6.53": {
+        "german": "Methode",
+        "english_ogden": "method",
+        "english_peamg": "method"
+      }
+    }
+  },
+  {
+    "mode": {
+      "2.12": {
+        "german": "Modell",
+        "english_ogden": "model",
+        "english_peamg": "model"
+      },
+      "3.322": {
+        "german": "Bezeichnungsweisen",
+        "english_ogden": "methods",
+        "english_peamg": "modes"
+      },
+      "3.323": {
+        "german": "Art und Weise",
+        "english_ogden": "ways",
+        "english_peamg": "modes"
+      },
+      "3.325": {
+        "german": "Art",
+        "english_ogden": "way",
+        "english_peamg": "mode"
+      },
+      "3.3421": {
+        "german": "Bezeichnungsweise",
+        "english_ogden": "method",
+        "english_peamg": "mode"
+      },
+      "4.01": {
+        "german": "Modell",
+        "english_ogden": "model",
+        "english_peamg": "model"
+      },
+      "4.015": {
+        "german": "Bildhaftigkeit",
+        "english_ogden": "imagery",
+        "english_peamg": "modes"
+      },
+      "4.04": {
+        "german": "Modell",
+        "english_ogden": "model",
+        "english_peamg": "model"
+      },
+      "4.0411": {
+        "german": "Bezeichnungsweisen",
+        "english_ogden": "ways",
+        "english_peamg": "modes"
+      },
+      "4.463": {
+        "german": "Modell",
+        "english_ogden": "model",
+        "english_peamg": "model"
+      },
+      "5.1311": {
+        "german": "Bezeichnungsweise",
+        "english_ogden": "method",
+        "english_peamg": "mode"
+      },
+      "5.21": {
+        "german": "Ausdrucksweise",
+        "english_ogden": "manner",
+        "english_peamg": "mode"
+      },
+      "5.526": {
+        "german": "Ausdrucksweise",
+        "english_ogden": "way",
+        "english_peamg": "mode"
+      },
+      "5.541": {
+        "german": "Satzformen",
+        "english_ogden": "forms",
+        "english_peamg": "forms"
+      },
+      "5.5563": {
+        "german": "Modell",
+        "english_ogden": "model",
+        "english_peamg": "image"
+      },
+      "6.371": {
+        "german": "Weltanschauung",
+        "english_ogden": "view",
+        "english_peamg": "conception"
+      },
+      "6.372": {
+        "german": "System",
+        "english_ogden": "system",
+        "english_peamg": "system"
+      }
+    }
+  },
+  {
+    "nature": {
+      "2.0123": {
+        "german": "Natur",
+        "english_ogden": "nature",
+        "english_peamg": "nature"
+      },
+      "3.1431": {
+        "german": "Wesen",
+        "english_ogden": "essential nature",
+        "english_peamg": "essence"
+      },
+      "3.315": {
+        "german": "Natur",
+        "english_ogden": "nature",
+        "english_peamg": "nature"
+      },
+      "3.3421": {
+        "german": "Wesen",
+        "english_ogden": "nature",
+        "english_peamg": "essence"
+      },
+      "4.013": {
+        "german": "Wesentliche",
+        "english_ogden": "essence",
+        "english_peamg": "essence"
+      },
+      "4.016": {
+        "german": "Wesen",
+        "english_ogden": "essence",
+        "english_peamg": "essential nature"
+      },
+      "5.132": {
+        "german": "Art",
+        "english_ogden": "nature",
+        "english_peamg": "nature"
+      },
+      "5.154": {
+        "german": "Naturgesetze",
+        "english_ogden": "natural laws",
+        "english_peamg": "laws of nature"
+      },
+      "5.3": {
+        "german": "Wesen",
+        "english_ogden": "nature",
+        "english_peamg": "essence"
+      },
+      "5.47": {
+        "german": "Natur",
+        "english_ogden": "nature",
+        "english_peamg": "nature"
+      },
+      "6.124": {
+        "german": "Natur",
+        "english_ogden": "nature",
+        "english_peamg": "nature"
+      },
+      "6.34": {
+        "german": "Natur",
+        "english_ogden": "nature",
+        "english_peamg": "nature"
+      },
+      "6.36": {
+        "german": "Naturgesetze",
+        "english_ogden": "natural laws",
+        "english_peamg": "laws of nature"
+      },
+      "6.371": {
+        "german": "Naturgesetze",
+        "english_ogden": "laws of nature",
+        "english_peamg": "laws of nature"
+      },
+      "6.372": {
+        "german": "Naturgesetzen",
+        "english_ogden": "natural laws",
+        "english_peamg": "laws of nature"
+      }
+    }
+  },
+  {
+    "necessary": {
+      "3.328": {
+        "german": "gebraucht",
+        "english_ogden": "necessary",
+        "english_peamg": "useless"
+      },
+      "4.0411": {
+        "german": "genügen",
+        "english_ogden": "necessary",
+        "english_peamg": "necessary"
+      },
+      "5.131": {
+        "german": "brauchen",
+        "english_ogden": "need",
+        "english_peamg": "necessary"
+      },
+      "5.452": {
+        "german": "nötig",
+        "english_ogden": "necessary",
+        "english_peamg": "necessary"
+      },
+      "5.47321": {
+        "german": "unnötige",
+        "english_ogden": "necessary",
+        "english_peamg": "necessary"
+      },
+      "5.474": {
+        "german": "nötigen",
+        "english_ogden": "necessary",
+        "english_peamg": "necessary"
+      },
+      "6.124": {
+        "german": "notwendig",
+        "english_ogden": "necessary",
+        "english_peamg": "necessary"
+      },
+      "6.232": {
+        "german": "notwendig",
+        "english_ogden": "necessary",
+        "english_peamg": "necessary"
+      },
+      "6.2321": {
+        "german": "müssen",
+        "english_ogden": "necessary",
+        "english_peamg": "necessary"
+      },
+      "6.233": {
+        "german": "brauche",
+        "english_ogden": "need",
+        "english_peamg": "needed"
+      }
+    }
+  },
+  {
+    "negation": {
+      "3.42": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "4.0621": {
+        "german": "Verneinung",
+        "english_ogden": "negation",
+        "english_peamg": "negation"
+      },
+      "4.064": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "4.0641": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "5.2341": {
+        "german": "Verneinung",
+        "english_ogden": "Denial",
+        "english_peamg": "Negation"
+      },
+      "5.254": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "5.44": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "5.451": {
+        "german": "Verneinung",
+        "english_ogden": "denial",
+        "english_peamg": "negation"
+      },
+      "5.5": {
+        "german": "Verneint",
+        "english_ogden": "denies",
+        "english_peamg": "negates"
+      },
+      "5.502": {
+        "german": "Negation",
+        "english_ogden": "negation",
+        "english_peamg": "negation"
+      },
+      "5.512": {
+        "german": "verneint",
+        "english_ogden": "denies",
+        "english_peamg": "negates"
+      },
+      "6.231": {
+        "german": "doppelte Verneinung",
+        "english_ogden": "double denial",
+        "english_peamg": "double negation"
+      }
+    }
+  },
+  {
+    "notation": {
+      "3.24": {
+        "german": "Beschreibung",
+        "english_ogden": "notation",
+        "english_peamg": "notation"
+      },
+      "3.325": {
+        "german": "Zeichensprache",
+        "english_ogden": "symbolism",
+        "english_peamg": "sign-language"
+      },
+      "3.342": {
+        "german": "Notationen",
+        "english_ogden": "notations",
+        "english_peamg": "notations"
+      },
+      "3.3441": {
+        "german": "Notationen",
+        "english_ogden": "notations",
+        "english_peamg": "notations"
+      },
+      "4.011": {
+        "german": "Zeichensprachen",
+        "english_ogden": "symbolisms",
+        "english_peamg": "sign-languages"
+      },
+      "4.013": {
+        "german": "Bildhaftigkeit",
+        "english_ogden": "pictorial nature",
+        "english_peamg": "pictorial character"
+      },
+      "4.0141": {
+        "german": "Notensprache",
+        "english_ogden": "language of the musical score",
+        "english_peamg": "language of musical notation"
+      },
+      "4.1272": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical symbolism",
+        "english_peamg": "conceptual notation"
+      },
+      "4.1273": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical symbolism",
+        "english_peamg": "conceptual notation"
+      },
+      "4.431": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical symbolism",
+        "english_peamg": "conceptual notation"
+      },
+      "5.474": {
+        "german": "Notation",
+        "english_ogden": "notation",
+        "english_peamg": "notation"
+      },
+      "5.512": {
+        "german": "Notation",
+        "english_ogden": "notation",
+        "english_peamg": "notation"
+      },
+      "5.513": {
+        "german": "Symbole",
+        "english_ogden": "symbols",
+        "english_peamg": "symbols"
+      },
+      "5.514": {
+        "german": "Notation",
+        "english_ogden": "notation",
+        "english_peamg": "notation"
+      },
+      "5.533": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical notation",
+        "english_peamg": "conceptual notation"
+      },
+      "5.534": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical notation",
+        "english_peamg": "conceptual notation"
+      },
+      "6.1203": {
+        "german": "Notation",
+        "english_ogden": "notation",
+        "english_peamg": "notation"
+      },
+      "6.122": {
+        "german": "Notation",
+        "english_ogden": "notation",
+        "english_peamg": "notation"
+      },
+      "6.1223": {
+        "german": "Notation",
+        "english_ogden": "notation",
+        "english_peamg": "notation"
+      }
+    }
+  },
+  {
+    "obvious": {
+      "2.022": {
+        "german": "offenbar",
+        "english_ogden": "clear",
+        "english_peamg": "obvious"
+      },
+      "4.012": {
+        "german": "Offenbar",
+        "english_ogden": "obvious",
+        "english_peamg": "obvious"
+      },
+      "4.221": {
+        "german": "offenbar",
+        "english_ogden": "obvious",
+        "english_peamg": "obvious"
+      },
+      "5.1311": {
+        "german": "offenbar",
+        "english_ogden": "obvious",
+        "english_peamg": "obvious"
+      },
+      "5.1363": {
+        "german": "einleuchtet",
+        "english_ogden": "obvious",
+        "english_peamg": "self-evident"
+      },
+      "5.42": {
+        "german": "einleuchtet",
+        "english_ogden": "obvious",
+        "english_peamg": "self-evident"
+      },
+      "5.503": {
+        "german": "offenbar",
+        "english_ogden": "obviously",
+        "english_peamg": "obvious"
+      },
+      "5.5301": {
+        "german": "einleuchtet",
+        "english_ogden": "obvious",
+        "english_peamg": "self-evident"
+      },
+      "5.5571": {
+        "german": "offenbarem",
+        "english_ogden": "obvious",
+        "english_peamg": "obvious"
+      },
+      "6.111": {
+        "german": "selbstverständlich",
+        "english_ogden": "self-evident",
+        "english_peamg": "obvious"
+      },
+      "6.31": {
+        "german": "offenbar",
+        "english_ogden": "obviously",
+        "english_peamg": "obviously"
+      },
+      "6.35": {
+        "german": "selbstverständlich",
+        "english_ogden": "obviously",
+        "english_peamg": "obviously"
+      },
+      "6.51": {
+        "german": "offenbar",
+        "english_ogden": "palpably",
+        "english_peamg": "obviously"
+      }
+    }
+  },
+  {
+    "philosophy": {
+      "3.324": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      },
+      "3.3421": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      },
+      "4.0031": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      },
+      "4.111": {
+        "german": "Philosophie",
+        "english_ogden": "Philosophy",
+        "english_peamg": "Philosophy"
+      },
+      "4.112": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "Philosophy"
+      },
+      "4.1121": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      },
+      "4.1122": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      },
+      "4.113": {
+        "german": "Philosophie",
+        "english_ogden": "Philosophy",
+        "english_peamg": "Philosophy"
+      },
+      "5.641": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      },
+      "6.113": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      },
+      "6.211": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      },
+      "6.53": {
+        "german": "Philosophie",
+        "english_ogden": "philosophy",
+        "english_peamg": "philosophy"
+      }
+    }
+  },
+  {
+    "pictorial": {
+      "2.15": {
+        "german": "Abbildung",
+        "english_ogden": "representation",
+        "english_peamg": "pictorial"
+      },
+      "2.151": {
+        "german": "Abbildung",
+        "english_ogden": "representation",
+        "english_peamg": "pictorial"
+      },
+      "2.1513": {
+        "german": "abbildende",
+        "english_ogden": "representing",
+        "english_peamg": "pictorial"
+      },
+      "2.1514": {
+        "german": "abbildende",
+        "english_ogden": "representing",
+        "english_peamg": "pictorial"
+      },
+      "2.17": {
+        "german": "Abbildung",
+        "english_ogden": "representation",
+        "english_peamg": "pictorial"
+      },
+      "2.172": {
+        "german": "Abbildung",
+        "english_ogden": "representation",
+        "english_peamg": "pictorial"
+      },
+      "2.181": {
+        "german": "Abbildung",
+        "english_ogden": "representation",
+        "english_peamg": "pictorial"
+      },
+      "2.2": {
+        "german": "Abbildung",
+        "english_ogden": "representation",
+        "english_peamg": "pictorial"
+      },
+      "2.22": {
+        "german": "Abbildung",
+        "english_ogden": "representation",
+        "english_peamg": "pictorial"
+      },
+      "4.013": {
+        "german": "Bildhaftigkeit",
+        "english_ogden": "pictorial",
+        "english_peamg": "pictorial"
+      },
+      "4.014": {
+        "german": "abbildenden",
+        "english_ogden": "pictorial",
+        "english_peamg": "depicting"
+      },
+      "4.015": {
+        "german": "Bildhaftigkeit",
+        "english_ogden": "imagery",
+        "english_peamg": "pictorial"
+      }
+    }
+  },
+  {
+    "problem": {
+      "4.003": {
+        "german": "Probleme",
+        "english_ogden": "problems",
+        "english_peamg": "problems"
+      },
+      "5.4541": {
+        "german": "Probleme",
+        "english_ogden": "problems",
+        "english_peamg": "problems"
+      },
+      "5.535": {
+        "german": "Probleme",
+        "english_ogden": "problems",
+        "english_peamg": "problems"
+      },
+      "5.551": {
+        "german": "Problem",
+        "english_ogden": "problem",
+        "english_peamg": "problem"
+      },
+      "5.5563": {
+        "german": "Probleme",
+        "english_ogden": "problems",
+        "english_peamg": "problems"
+      },
+      "5.62": {
+        "german": "Frage",
+        "english_ogden": "question",
+        "english_peamg": "problem"
+      },
+      "6.233": {
+        "german": "Probleme",
+        "english_ogden": "problems",
+        "english_peamg": "problems"
+      },
+      "6.36111": {
+        "german": "Problem",
+        "english_ogden": "problem",
+        "english_peamg": "problem"
+      },
+      "6.4312": {
+        "german": "Rätsel",
+        "english_ogden": "riddle",
+        "english_peamg": "riddle"
+      },
+      "6.4321": {
+        "german": "Lösung",
+        "english_ogden": "performance",
+        "english_peamg": "solution"
+      },
+      "6.52": {
+        "german": "Lebensprobleme",
+        "english_ogden": "problems",
+        "english_peamg": "problems"
+      },
+      "6.521": {
+        "german": "Problems",
+        "english_ogden": "problem",
+        "english_peamg": "problem"
+      }
+    }
+  },
+  {
+    "propositional sign": {
+      "3.12": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.14": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.143": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.1431": {
+        "german": "Satzzeichens",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.2": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.21": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.332": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.34": {
+        "german": "Satz",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.41": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "3.5": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "4.02": {
+        "german": "Satzzeichens",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "4.44": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "4.442": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      },
+      "5.31": {
+        "german": "Satzzeichen",
+        "english_ogden": "propositional sign",
+        "english_peamg": "propositional sign"
+      }
+    }
+  },
+  {
+    "rule": {
+      "3.325": {
+        "german": "Zeichensprache",
+        "english_ogden": "rules",
+        "english_peamg": "rules"
+      },
+      "3.331": {
+        "german": "Zeichenregeln",
+        "english_ogden": "rules",
+        "english_peamg": "rules"
+      },
+      "3.334": {
+        "german": "Regeln",
+        "english_ogden": "rules",
+        "english_peamg": "rules"
+      },
+      "3.3421": {
+        "german": "Bezeichnungsweise",
+        "english_ogden": "method",
+        "english_peamg": "mode"
+      },
+      "3.343": {
+        "german": "Regeln",
+        "english_ogden": "rules",
+        "english_peamg": "rules"
+      },
+      "3.344": {
+        "german": "Regeln",
+        "english_ogden": "rules",
+        "english_peamg": "rules"
+      },
+      "4.0141": {
+        "german": "Regel",
+        "english_ogden": "rule",
+        "english_peamg": "rule"
+      },
+      "4.241": {
+        "german": "Zeichenregel",
+        "english_ogden": "rule",
+        "english_peamg": "rule"
+      },
+      "4.442": {
+        "german": "Kombinationsregel",
+        "english_ogden": "rule",
+        "english_peamg": "rule"
+      },
+      "5.47321": {
+        "german": "Regel",
+        "english_ogden": "rule",
+        "english_peamg": "rule"
+      },
+      "5.476": {
+        "german": "Regel",
+        "english_ogden": "rule",
+        "english_peamg": "rule"
+      },
+      "5.512": {
+        "german": "Regel",
+        "english_ogden": "rule",
+        "english_peamg": "rule"
+      },
+      "5.514": {
+        "german": "Regel",
+        "english_ogden": "rule",
+        "english_peamg": "rule"
+      },
+      "6.02": {
+        "german": "Zeichenregeln",
+        "english_ogden": "rules",
+        "english_peamg": "rules"
+      },
+      "6.126": {
+        "german": "Zeichenregeln",
+        "english_ogden": "rules",
+        "english_peamg": "rules"
+      },
+      "6.3751": {
+        "german": "logische Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structure"
+      }
+    }
+  },
+  {
+    "science": {
+      "4.11": {
+        "german": "Naturwissenschaft",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "4.111": {
+        "german": "Naturwissenschaften",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "4.1121": {
+        "german": "Naturwissenschaft",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "4.1122": {
+        "german": "Naturwissenschaft",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "4.113": {
+        "german": "Naturwissenschaft",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "6.111": {
+        "german": "Logik",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "6.34": {
+        "german": "Wissenschaft",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "6.341": {
+        "german": "Mechanik",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "6.4312": {
+        "german": "Naturwissenschaft",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      },
+      "6.53": {
+        "german": "Naturwissenschaft",
+        "english_ogden": "science",
+        "english_peamg": "science"
+      }
+    }
+  },
+  {
+    "sign of": {
+      "3.11": {
+        "german": "Zeichen",
+        "english_ogden": "sign",
+        "english_peamg": "sign"
+      },
+      "3.143": {
+        "german": "Zeichen",
+        "english_ogden": "sign of",
+        "english_peamg": "sign"
+      },
+      "3.323": {
+        "german": "Zeichen",
+        "english_ogden": "signifies",
+        "english_peamg": "signification"
+      },
+      "3.3442": {
+        "german": "Zeichen",
+        "english_ogden": "sign",
+        "english_peamg": "sign"
+      },
+      "4.1271": {
+        "german": "Zeichen",
+        "english_ogden": "sign of",
+        "english_peamg": "sign for"
+      },
+      "4.1272": {
+        "german": "Zeichen",
+        "english_ogden": "sign",
+        "english_peamg": "sign"
+      },
+      "4.211": {
+        "german": "Zeichen",
+        "english_ogden": "sign of",
+        "english_peamg": "sign of"
+      },
+      "5.4733": {
+        "german": "Zeichen",
+        "english_ogden": "sign",
+        "english_peamg": "sign"
+      },
+      "5.501": {
+        "german": "Zeichen",
+        "english_ogden": "sign",
+        "english_peamg": "sign"
+      },
+      "5.5151": {
+        "german": "Zeichen",
+        "english_ogden": "sign of",
+        "english_peamg": "sign"
+      },
+      "5.53": {
+        "german": "Zeichen",
+        "english_ogden": "sign",
+        "english_peamg": "sign"
+      },
+      "5.5301": {
+        "german": "Zeichen",
+        "english_ogden": "sign of",
+        "english_peamg": "identity-sign"
+      },
+      "5.5541": {
+        "german": "Zeichen",
+        "english_ogden": "sign of",
+        "english_peamg": "sign"
+      },
+      "6.1203": {
+        "german": "Zeichen",
+        "english_ogden": "sign",
+        "english_peamg": "sign"
+      },
+      "6.23": {
+        "german": "Zeichen",
+        "english_ogden": "sign of",
+        "english_peamg": "sign of"
+      },
+      "6.232": {
+        "german": "Zeichen",
+        "english_ogden": "sign of",
+        "english_peamg": "sign of"
+      }
+    }
+  },
+  {
+    "signify": {
+      "3.261": {
+        "german": "bezeichnen",
+        "english_ogden": "signify",
+        "english_peamg": "signifies"
+      },
+      "3.321": {
+        "german": "bezeichnen",
+        "english_ogden": "signify",
+        "english_peamg": "signify"
+      },
+      "3.322": {
+        "german": "bezeichnen",
+        "english_ogden": "symbolize",
+        "english_peamg": "signify"
+      },
+      "3.323": {
+        "german": "bezeichnen",
+        "english_ogden": "signifies",
+        "english_peamg": "signification"
+      },
+      "3.325": {
+        "german": "bezeichnen",
+        "english_ogden": "signify",
+        "english_peamg": "signifying"
+      },
+      "3.3411": {
+        "german": "bezeichnen",
+        "english_ogden": "signify",
+        "english_peamg": "signified"
+      },
+      "3.3421": {
+        "german": "Bezeichnungsweise",
+        "english_ogden": "symbolizing",
+        "english_peamg": "signifying"
+      },
+      "4.0411": {
+        "german": "bezeichnen",
+        "english_ogden": "symbolizing",
+        "english_peamg": "signifying"
+      },
+      "4.061": {
+        "german": "bedeuten",
+        "english_ogden": "signifies",
+        "english_peamg": "signify"
+      },
+      "4.115": {
+        "german": "bedeuten",
+        "english_ogden": "mean",
+        "english_peamg": "signify"
+      },
+      "4.127": {
+        "german": "bezeichnet",
+        "english_ogden": "signifies",
+        "english_peamg": "signifies"
+      },
+      "4.1272": {
+        "german": "bezeichnen",
+        "english_ogden": "signify",
+        "english_peamg": "signify"
+      },
+      "4.243": {
+        "german": "bedeuten",
+        "english_ogden": "signify",
+        "english_peamg": "signify"
+      },
+      "5.1311": {
+        "german": "Bezeichnungsweise",
+        "english_ogden": "symbolizing",
+        "english_peamg": "signifying"
+      },
+      "5.42": {
+        "german": "bezeichnen",
+        "english_ogden": "signify",
+        "english_peamg": "signs for"
+      },
+      "5.473": {
+        "german": "bezeichnen",
+        "english_ogden": "signify",
+        "english_peamg": "signifying"
+      },
+      "5.4733": {
+        "german": "bedeuten",
+        "english_ogden": "meaning",
+        "english_peamg": "meaning"
+      },
+      "5.5261": {
+        "german": "bezeichnenden",
+        "english_ogden": "signifying",
+        "english_peamg": "signifying"
+      },
+      "5.5541": {
+        "german": "bezeichnen",
+        "english_ogden": "symbolize",
+        "english_peamg": "signify"
+      },
+      "6.111": {
+        "german": "bezeichnen",
+        "english_ogden": "signify",
+        "english_peamg": "signified"
+      }
+    }
+  },
+  {
+    "simple": {
+      "2.02": {
+        "german": "einfach",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "3.201": {
+        "german": "einfache",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "3.202": {
+        "german": "einfachen",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "3.21": {
+        "german": "einfachen",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "3.23": {
+        "german": "einfachen",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "3.24": {
+        "german": "einfaches",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "4.026": {
+        "german": "einfachen",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "4.21": {
+        "german": "einfachste",
+        "english_ogden": "simplest",
+        "english_peamg": "simplest"
+      },
+      "4.24": {
+        "german": "einfachen",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "5.02": {
+        "german": "einfaches",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "5.4541": {
+        "german": "einfach",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "5.553": {
+        "german": "einfache",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "5.5563": {
+        "german": "Einfachste",
+        "english_ogden": "simple",
+        "english_peamg": "simple"
+      },
+      "6.341": {
+        "german": "einheitliche",
+        "english_ogden": "unified",
+        "english_peamg": "unified"
+      },
+      "6.363": {
+        "german": "einfachste",
+        "english_ogden": "simplest",
+        "english_peamg": "simplest"
+      },
+      "6.3631": {
+        "german": "einfachste",
+        "english_ogden": "simplest",
+        "english_peamg": "simplest"
+      }
+    }
+  },
+  {
+    "space": {
+      "1.13": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.0121": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.013": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.0131": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.0251": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.11": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "2.202": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "3.032": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "3.4": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "3.42": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "4.463": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "6.3611": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "6.36111": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      },
+      "6.4312": {
+        "german": "Raum",
+        "english_ogden": "space",
+        "english_peamg": "space"
+      }
+    }
+  },
+  {
+    "structure": {
+      "2.032": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structure"
+      },
+      "2.033": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structure"
+      },
+      "2.034": {
+        "german": "Strukturen",
+        "english_ogden": "structures",
+        "english_peamg": "structures"
+      },
+      "2.15": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structure"
+      },
+      "3.3442": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structure"
+      },
+      "4.014": {
+        "german": "logische Bau",
+        "english_ogden": "logical structure",
+        "english_peamg": "logical pattern"
+      },
+      "4.1211": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structure"
+      },
+      "4.122": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structural"
+      },
+      "5.13": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structure"
+      },
+      "5.2": {
+        "german": "Strukturen",
+        "english_ogden": "structures",
+        "english_peamg": "structures"
+      },
+      "5.22": {
+        "german": "Strukturen",
+        "english_ogden": "structures",
+        "english_peamg": "structures"
+      },
+      "5.4541": {
+        "german": "Gebilde",
+        "english_ogden": "structure",
+        "english_peamg": "system"
+      },
+      "5.5262": {
+        "german": "Bau",
+        "english_ogden": "structure",
+        "english_peamg": "construction"
+      },
+      "6.12": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structural"
+      },
+      "6.3751": {
+        "german": "Struktur",
+        "english_ogden": "structure",
+        "english_peamg": "structure"
+      }
+    }
+  },
+  {
+    "subject": {
+      "2.173": {
+        "german": "Objekt",
+        "english_ogden": "object",
+        "english_peamg": "subject"
+      },
+      "4.041": {
+        "german": "Mannigfaltigkeit",
+        "english_ogden": "multiplicity",
+        "english_peamg": "subject"
+      },
+      "4.1274": {
+        "german": "Begriffes",
+        "english_ogden": "concept",
+        "english_peamg": "concept"
+      },
+      "5.4541": {
+        "german": "Gebiet",
+        "english_ogden": "sphere",
+        "english_peamg": "realm"
+      },
+      "5.5421": {
+        "german": "Subjekt",
+        "english_ogden": "subject",
+        "english_peamg": "subject"
+      },
+      "5.63": {
+        "german": "Mikrokosmos",
+        "english_ogden": "microcosm",
+        "english_peamg": "subject"
+      },
+      "5.631": {
+        "german": "Subjekt",
+        "english_ogden": "subject",
+        "english_peamg": "subject"
+      },
+      "5.632": {
+        "german": "Subjekt",
+        "english_ogden": "subject",
+        "english_peamg": "subject"
+      },
+      "5.633": {
+        "german": "Subjekt",
+        "english_ogden": "subject",
+        "english_peamg": "subject"
+      },
+      "5.641": {
+        "german": "Ich",
+        "english_ogden": "I",
+        "english_peamg": "self"
+      },
+      "6.123": {
+        "german": "Type",
+        "english_ogden": "type",
+        "english_peamg": "type"
+      },
+      "6.124": {
+        "german": "Gerüst",
+        "english_ogden": "scaffolding",
+        "english_peamg": "scaffolding"
+      },
+      "6.3": {
+        "german": "Gesetzmässigkeit",
+        "english_ogden": "regularity",
+        "english_peamg": "law"
+      },
+      "6.361": {
+        "german": "Zusammenhänge",
+        "english_ogden": "connexions",
+        "english_peamg": "connexions"
+      },
+      "6.423": {
+        "german": "Träger",
+        "english_ogden": "subject",
+        "english_peamg": "subject"
+      }
+    }
+  },
+  {
+    "sum": {
+      "2.063": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum-total"
+      },
+      "3.316": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "3.42": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "4.063": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "4.1241": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "4.27": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "4.42": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "5.154": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "5.521": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "6.363": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "6.374": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      },
+      "6.4312": {
+        "german": "Summe",
+        "english_ogden": "sum",
+        "english_peamg": "sum"
+      }
+    }
+  },
+  {
+    "symbolism": {
+      "3.325": {
+        "german": "Zeichensprache",
+        "english_ogden": "symbolism",
+        "english_peamg": "sign-language"
+      },
+      "3.328": {
+        "german": "Zeichen",
+        "english_ogden": "symbolism",
+        "english_peamg": "sign"
+      },
+      "3.343": {
+        "german": "Zeichensprache",
+        "english_ogden": "symbolism",
+        "english_peamg": "sign-language"
+      },
+      "4.011": {
+        "german": "Zeichensprachen",
+        "english_ogden": "symbolisms",
+        "english_peamg": "sign-languages"
+      },
+      "4.1213": {
+        "german": "Zeichensprache",
+        "english_ogden": "symbolism",
+        "english_peamg": "sign-language"
+      },
+      "4.1272": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical symbolism",
+        "english_peamg": "conceptual notation"
+      },
+      "4.1273": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical symbolism",
+        "english_peamg": "conceptual notation"
+      },
+      "4.31": {
+        "german": "Symbolik",
+        "english_ogden": "symbolism",
+        "english_peamg": "symbolize"
+      },
+      "4.431": {
+        "german": "Begriffsschrift",
+        "english_ogden": "logical symbolism",
+        "english_peamg": "conceptual notation"
+      },
+      "4.4611": {
+        "german": "Symbolismus",
+        "english_ogden": "symbolism",
+        "english_peamg": "symbolism"
+      },
+      "5.452": {
+        "german": "Symbolismus",
+        "english_ogden": "symbolism",
+        "english_peamg": "symbolism"
+      },
+      "5.47321": {
+        "german": "Zeicheneinheiten",
+        "english_ogden": "symbolism",
+        "english_peamg": "sign-language"
+      },
+      "5.522": {
+        "german": "Allgemeinheitsbezeichnung",
+        "english_ogden": "symbolism of generality",
+        "english_peamg": "generality-sign"
+      }
+    }
+  },
+  {
+    "theory": {
+      "3.331": {
+        "german": "Theory",
+        "english_ogden": "Theory",
+        "english_peamg": "theory"
+      },
+      "3.332": {
+        "german": "Theory",
+        "english_ogden": "theory",
+        "english_peamg": "theory"
+      },
+      "4.112": {
+        "german": "Philosophie",
+        "english_ogden": "theory",
+        "english_peamg": "doctrine"
+      },
+      "4.1121": {
+        "german": "Erkenntnistheorie",
+        "english_ogden": "theory",
+        "english_peamg": "Theory"
+      },
+      "4.1122": {
+        "german": "Theorie",
+        "english_ogden": "theory",
+        "english_peamg": "theory"
+      },
+      "4.464": {
+        "german": "Wahrscheinlichkeitslehre",
+        "english_ogden": "theory",
+        "english_peamg": "theory"
+      },
+      "5.02": {
+        "german": "Theorie",
+        "english_ogden": "theory",
+        "english_peamg": "theory"
+      },
+      "5.1": {
+        "german": "Wahrscheinlichkeitslehre",
+        "english_ogden": "theory",
+        "english_peamg": "theory"
+      },
+      "5.541": {
+        "german": "Erkenntnistheorie",
+        "english_ogden": "epistemology",
+        "english_peamg": "theory"
+      },
+      "5.5422": {
+        "german": "Theorie",
+        "english_ogden": "theory",
+        "english_peamg": "theory"
+      },
+      "6.031": {
+        "german": "Theorie",
+        "english_ogden": "theory",
+        "english_peamg": "theory"
+      },
+      "6.111": {
+        "german": "Theorien",
+        "english_ogden": "Theories",
+        "english_peamg": "theories"
+      },
+      "6.1224": {
+        "german": "Lehre",
+        "english_ogden": "theory",
+        "english_peamg": "theory"
+      },
+      "6.13": {
+        "german": "Lehre",
+        "english_ogden": "theory",
+        "english_peamg": "doctrine"
+      }
+    }
+  },
+  {
+    "think": {
+      "2.0121": {
+        "german": "denken",
+        "english_ogden": "think",
+        "english_peamg": "imagine"
+      },
+      "2.013": {
+        "german": "denken",
+        "english_ogden": "think",
+        "english_peamg": "imagine"
+      },
+      "3.001": {
+        "german": "denkbar",
+        "english_ogden": "thinkable",
+        "english_peamg": "thinkable"
+      },
+      "3.02": {
+        "german": "denkt",
+        "english_ogden": "thinks",
+        "english_peamg": "thought"
+      },
+      "3.03": {
+        "german": "denken",
+        "english_ogden": "think",
+        "english_peamg": "think"
+      },
+      "3.11": {
+        "german": "Denken",
+        "english_ogden": "thinking",
+        "english_peamg": "think"
+      },
+      "4.01": {
+        "german": "denken",
+        "english_ogden": "think",
+        "english_peamg": "imagine"
+      },
+      "4.114": {
+        "german": "Denkbare",
+        "english_ogden": "thinkable",
+        "english_peamg": "thought"
+      },
+      "4.123": {
+        "german": "undenkbar",
+        "english_ogden": "unthinkable",
+        "english_peamg": "unthinkable"
+      },
+      "5.4731": {
+        "german": "gedacht",
+        "english_ogden": "think",
+        "english_peamg": "thought"
+      },
+      "5.4733": {
+        "german": "denken",
+        "english_ogden": "think",
+        "english_peamg": "think"
+      },
+      "5.541": {
+        "german": "denkt",
+        "english_ogden": "thinks",
+        "english_peamg": "thought"
+      },
+      "5.542": {
+        "german": "glaubt",
+        "english_ogden": "believes",
+        "english_peamg": "believes"
+      },
+      "5.61": {
+        "german": "denken",
+        "english_ogden": "think",
+        "english_peamg": "think"
+      },
+      "5.631": {
+        "german": "denkende",
+        "english_ogden": "thinking",
+        "english_peamg": "thinks"
+      },
+      "6.111": {
+        "german": "Denker",
+        "english_ogden": "thinker",
+        "english_peamg": "thinker"
+      },
+      "6.1271": {
+        "german": "Denker",
+        "english_ogden": "thinker",
+        "english_peamg": "thinker"
+      },
+      "6.361": {
+        "german": "denkbar",
+        "english_ogden": "thinkable",
+        "english_peamg": "thinkable"
+      },
+      "6.3751": {
+        "german": "denken",
+        "english_ogden": "think",
+        "english_peamg": "think"
+      }
+    }
+  },
+  {
+    "time": {
+      "2.0121": {
+        "german": "Zeit",
+        "english_ogden": "time",
+        "english_peamg": "time"
+      },
+      "2.0124": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "2.0251": {
+        "german": "Zeit",
+        "english_ogden": "time",
+        "english_peamg": "time"
+      },
+      "2.182": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "3.3442": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "5.11": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "5.1241": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "5.15": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "5.4541": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "5.46": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "5.524": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "5.634": {
+        "german": null,
+        "english_ogden": "time",
+        "english_peamg": "time"
+      },
+      "6.241": {
+        "german": null,
+        "english_ogden": null,
+        "english_peamg": null
+      },
+      "6.3611": {
+        "german": "Zeit",
+        "english_ogden": "time",
+        "english_peamg": "time"
+      },
+      "6.3751": {
+        "german": "Zeit",
+        "english_ogden": "time",
+        "english_peamg": "time"
+      },
+      "6.4311": {
+        "german": "Zeit",
+        "english_ogden": "time",
+        "english_peamg": "time"
+      },
+      "6.4312": {
+        "german": "Zeit",
+        "english_ogden": "time",
+        "english_peamg": "time"
+      }
+    }
+  },
+  {
+    "totality": {
+      "1.1": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "1.12": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "2.02331": {
+        "german": "sämtlichen",
+        "english_ogden": "totality",
+        "english_peamg": "whole set"
+      },
+      "2.04": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "2.05": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "3.01": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "4.001": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "4.11": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "4.52": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "5.5262": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      },
+      "5.5561": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "totality"
+      }
+    }
+  },
+  {
+    "truth-function": {
+      "3.3441": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-functions"
+      },
+      "5": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-function"
+      },
+      "5.1": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "Truth-functions"
+      },
+      "5.101": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-functions"
+      },
+      "5.234": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "Truth-functions"
+      },
+      "5.2341": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-function",
+        "english_peamg": "truth-function"
+      },
+      "5.3": {
+        "german": "Wahrheitsoperationen",
+        "english_ogden": "truth-operations",
+        "english_peamg": "truth-operations"
+      },
+      "5.31": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-function",
+        "english_peamg": "truth-function"
+      },
+      "5.32": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-functions"
+      },
+      "5.41": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "truth-functions",
+        "english_peamg": "truth-functions"
+      },
+      "5.44": {
+        "german": "Wahrheitsfunktionen",
+        "english_ogden": "Truth-functions",
+        "english_peamg": "Truth-functions"
+      },
+      "5.5": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-function",
+        "english_peamg": "truth-function"
+      },
+      "5.521": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth-function",
+        "english_peamg": "truth-functions"
+      },
+      "6": {
+        "german": "Wahrheitsfunktion",
+        "english_ogden": "truth function",
+        "english_peamg": "truth-function"
+      }
+    }
+  },
+  {
+    "understand": {
+      "4.002": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.003": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.016": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.02": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.021": {
+        "german": "verstehe",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.024": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.026": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.1213": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.243": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "4.411": {
+        "german": "Verständnis",
+        "english_ogden": "comprehension",
+        "english_peamg": "understanding"
+      },
+      "5.451": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "5.521": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "5.552": {
+        "german": "Verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "5.5562": {
+        "german": "verstehen",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "5.62": {
+        "german": "verstehe",
+        "english_ogden": "understand",
+        "english_peamg": "understand"
+      },
+      "6.54": {
+        "german": "versteht",
+        "english_ogden": "understands",
+        "english_peamg": "under-stands"
+      }
+    }
+  },
+  {
+    "value": {
+      "3.313": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "3.315": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "3.316": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "3.317": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "4.063": {
+        "german": "Wahrheitswert",
+        "english_ogden": "truth-value",
+        "english_peamg": "truth-value"
+      },
+      "4.127": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "4.1271": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "5.501": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "5.502": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "5.51": {
+        "german": "Wert",
+        "english_ogden": "value",
+        "english_peamg": "value"
+      },
+      "5.52": {
+        "german": "Werte",
+        "english_ogden": "values",
+        "english_peamg": "values"
+      },
+      "6.4": {
+        "german": "gleichwertig",
+        "english_ogden": "value",
+        "english_peamg": "value"
+      },
+      "6.41": {
+        "german": "Wert",
+        "english_ogden": "value",
+        "english_peamg": "value"
+      }
+    }
+  },
+  {
+    "variable": {
+      "2.0271": {
+        "german": "Konfiguration",
+        "english_ogden": "variable",
+        "english_peamg": "alterable"
+      },
+      "3.312": {
+        "german": "variabel",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "3.313": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "3.314": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variables"
+      },
+      "3.315": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "3.316": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "3.317": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "4.0411": {
+        "german": "Variable",
+        "english_ogden": "variables",
+        "english_peamg": "variables"
+      },
+      "4.126": {
+        "german": "Satzvariable",
+        "english_ogden": "propositional variable",
+        "english_peamg": "propositional variable"
+      },
+      "4.127": {
+        "german": "Satzvariable",
+        "english_ogden": "propositional variable",
+        "english_peamg": "propositional variable"
+      },
+      "4.1271": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "4.1272": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "4.1273": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "4.53": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "5.24": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "5.242": {
+        "german": "Variable",
+        "english_ogden": "variables",
+        "english_peamg": "variables"
+      },
+      "5.2522": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "5.501": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "5.502": {
+        "german": "Variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      },
+      "6.022": {
+        "german": "variable",
+        "english_ogden": "variable",
+        "english_peamg": "variable"
+      }
+    }
+  },
+  {
+    "whole": {
+      "2.02331": {
+        "german": "sämtlichen",
+        "english_ogden": "totality",
+        "english_peamg": "whole"
+      },
+      "3.324": {
+        "german": "ganze",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "3.332": {
+        "german": "ganze",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "3.42": {
+        "german": "ganze",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "4.0311": {
+        "german": "Ganze",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "4.11": {
+        "german": "Gesamtheit",
+        "english_ogden": "totality",
+        "english_peamg": "whole"
+      },
+      "4.12": {
+        "german": "gesamte",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "4.126": {
+        "german": "ganze",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "4.463": {
+        "german": "ganzen",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "5.02": {
+        "german": "ganze",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "6.113": {
+        "german": "ganze",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "6.1203": {
+        "german": "ganzen",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "6.3431": {
+        "german": "ganzen",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "6.371": {
+        "german": "ganzen",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "6.41": {
+        "german": "ganzen",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "6.43": {
+        "german": "Ganzes",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      },
+      "6.45": {
+        "german": "Ganzes",
+        "english_ogden": "whole",
+        "english_peamg": "whole"
+      }
+    }
+  }
+]
