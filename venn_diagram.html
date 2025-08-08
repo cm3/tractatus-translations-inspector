@@ -1,0 +1,195 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venn Diagram</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            width: 100%;
+            height: 100vh;
+            margin: 0;
+        }
+        .venn-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            width: 100%;
+            max-width: 1200px;
+            height: max-content;
+        }
+        .rectangle {
+            width: 33.33%;
+            padding: 10px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+        .rectangle.first {
+            background-color: rgba(173, 216, 230, 0.5); /* Blue */
+        }
+        .rectangle.second {
+            background-color: rgba(255, 182, 193, 0.5); /* Red */
+        }
+        .rectangle.common {
+            background-color: rgba(216, 191, 230, 0.5); /* Purple */
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        li.grey {
+            color: grey;
+        }
+        li.clickable {
+            cursor: pointer;
+            color: blue;
+            text-decoration: underline;
+        }
+        .highlight {
+            color: red;
+            font-weight: bold;
+        }
+        li.clickable.has-result {
+            border-bottom: 2px dotted green;
+        }
+        .evaluation-bar {
+            width: 100%;
+            height: 12px;
+            background-color: #e0e0e0; /* 残りの色 */
+            border-radius: 6px;
+            margin-top: 4px;
+            margin-bottom: 6px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .evaluation-bar-fill {
+            height: 100%;
+            background-color: #ff7070; /* significant の色 */
+            border-radius: 6px 0 0 6px;
+        }
+
+        .toggle-button {
+            margin-top: 6px;
+            padding: 2px 8px;
+            font-size: 0.9em;
+            cursor: pointer;
+            background-color: #f0f0f0;
+            border: 1px solid #aaa;
+            border-radius: 4px;
+        }
+
+        .reason-text {
+            display: none;
+            margin-top: 4px;
+            padding-left: 8px;
+            font-size: 0.9em;
+            color: #444;
+        }
+        #resultOverlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 80%;
+            height: 80%;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            z-index: 1000;
+            overflow-y: scroll;
+            padding: 20px;
+            margin: 20px;
+            box-sizing: border-box;
+        }
+
+        .evaluation-bar {
+            width: 100%;
+            height: 12px;
+            background-color: #e0e0e0;
+            border-radius: 6px;
+            margin-top: 4px;
+            margin-bottom: 6px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .evaluation-bar-fill {
+            height: 100%;
+            font-size: xx-small;
+            padding-left: 1em;
+            background-color: #ff7070;
+            border-radius: 6px 0 0 6px;
+        }
+
+        .toggle-button {
+            margin-top: 6px;
+            padding: 2px 8px;
+            font-size: 0.9em;
+            cursor: pointer;
+            background-color: #f0f0f0;
+            border: 1px solid #aaa;
+            border-radius: 4px;
+        }
+
+        .reason-text {
+            display: none;
+            margin-top: 4px;
+            padding-left: 8px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+
+        #resultOverlay button.close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            padding: 10px;
+            background-color: #fff;
+            color: #000;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+    <script src="nodes.js"></script> <!-- nodes.js を読み込み -->
+    <script src="keywordAnalysis.js"></script> <!-- keywordAnalysis.js を読み込み -->
+</head>
+<body>
+    <div class="venn-container">
+        <div class="rectangle first">
+            <h3>1st Only</h3>
+            <ul>
+                <li class="clickable">acquaintance</li><li class="grey">aristotle</li><li class="grey">assertion-sign</li><li class="clickable">atomic facts</li><li class="clickable">axiom of reducibility</li><li class="clickable">complexes</li><li class="clickable">converse</li><li class="grey">denoting</li><li class="grey">descriptions</li><li class="clickable">elementary propositions</li><li class="grey">empiricism</li><li class="clickable">epistemology</li><li class="clickable">facts</li><li class="clickable">falsehood</li><li class="clickable">formal concepts</li><li class="clickable">formal series</li><li class="clickable">generality</li><li class="grey">hunting of the snark</li><li class="grey">idealism</li><li class="clickable">inexpressible</li><li class="clickable">inference</li><li class="clickable">judgment</li><li class="clickable">logical signs</li><li class="grey">material implication</li><li class="grey">metaphysics</li><li class="grey">modality</li><li class="grey">moses</li><li class="grey">mysticism</li><li class="clickable">names</li><li class="clickable">necessity</li><li class="grey">negative facts</li><li class="clickable">numbers</li><li class="clickable">objects</li><li class="clickable">observation</li><li class="grey">ontological argument</li><li class="clickable">operations</li><li class="grey">philosophical investigations</li><li class="grey">picture theory</li><li class="clickable">possibility</li><li class="grey">propositional function</li><li class="clickable">propositions</li><li class="grey">quantification</li><li class="grey">quantifier</li><li class="grey">reference</li><li class="clickable">signs</li><li class="clickable">symbols</li><li class="clickable">the inexpressible</li><li class="grey">theory of description</li><li class="clickable">variables</li><li class="grey">verificationism</li>
+            </ul>
+        </div>
+        <div class="rectangle common">
+            <h3>Common</h3>
+            <ul>
+                <li class="clickable">axiom of infinity</li><li class="clickable">concatenation</li><li class="clickable">contradiction</li><li class="clickable">ethics</li><li class="clickable">experience</li><li class="clickable">form</li><li class="clickable">function</li><li class="clickable">god</li><li class="clickable">identity</li><li class="clickable">logic</li><li class="clickable">logical</li><li class="clickable">logical form</li><li class="clickable">logical picture</li><li class="clickable">logical space</li><li class="clickable">meaning</li><li class="clickable">modus ponens</li><li class="clickable">negation</li><li class="clickable">picture</li><li class="clickable">principia mathematica</li><li class="clickable">probability</li><li class="clickable">projection</li><li class="clickable">relation</li><li class="clickable">sense</li><li class="clickable">simple</li><li class="clickable">solipsism</li><li class="clickable">space</li><li class="clickable">tautology</li><li class="clickable">truth-function</li><li class="clickable">will</li>
+            </ul>
+        </div>
+        <div class="rectangle second">
+            <h3>2nd Only</h3>
+            <ul>
+                <li class="clickable">a priori</li><li class="clickable">about</li><li class="clickable">abstract</li><li class="clickable">accident</li><li class="clickable">accidental</li><li class="clickable">action</li><li class="clickable">activity</li><li class="clickable">addition</li><li class="clickable">adjectival</li><li class="clickable">adjective</li><li class="clickable">advance</li><li class="clickable">aesthetics</li><li class="clickable">affirmation</li><li class="clickable">affix</li><li class="clickable">agreement</li><li class="clickable">analysis</li><li class="clickable">analytic</li><li class="clickable">anatomize</li><li class="clickable">apparent</li><li class="clickable">application</li><li class="clickable">arbitrary</li><li class="clickable">are related</li><li class="clickable">argument</li><li class="clickable">arithmetic</li><li class="clickable">arrow</li><li class="clickable">articulate</li><li class="clickable">ascribe</li><li class="clickable">assert</li><li class="clickable">asymmetry</li><li class="clickable">axiom</li><li class="grey">axiom of breducibility</li><li class="clickable">basis</li><li class="grey">be a sign for</li><li class="clickable">be the case</li><li class="clickable">beautiful</li><li class="clickable">belief</li><li class="clickable">bound</li><li class="clickable">boundary</li><li class="clickable">brackets</li><li class="clickable">build</li><li class="clickable">calculation</li><li class="clickable">cardinal</li><li class="grey">cardinal system</li><li class="clickable">case</li><li class="clickable">causality</li><li class="clickable">certainty</li><li class="clickable">chain</li><li class="clickable">clarification</li><li class="clickable">class</li><li class="clickable">co-ordinate</li><li class="clickable">colour</li><li class="clickable">colourspace</li><li class="clickable">combination</li><li class="clickable">combination of signs</li><li class="clickable">combinatory</li><li class="grey">come-true</li><li class="clickable">common</li><li class="clickable">comparison</li><li class="clickable">complete</li><li class="clickable">complex</li><li class="clickable">composite</li><li class="clickable">compulsion</li><li class="clickable">concept</li><li class="clickable">concerned with</li><li class="clickable">concrete</li><li class="clickable">condition</li><li class="clickable">configuration</li><li class="clickable">connexion</li><li class="clickable">consequences</li><li class="clickable">conservation</li><li class="clickable">constant</li><li class="clickable">constituent</li><li class="clickable">construct</li><li class="clickable">construction</li><li class="clickable">contain</li><li class="clickable">content</li><li class="clickable">continuity</li><li class="clickable">convention</li><li class="clickable">copula</li><li class="clickable">correct</li><li class="clickable">correlate</li><li class="clickable">correspond</li><li class="grey">creation 3</li><li class="clickable">critique of language</li><li class="clickable">cube</li><li class="clickable">darwin</li><li class="clickable">deal with</li><li class="clickable">dealing with signs</li><li class="clickable">death</li><li class="clickable">deduce</li><li class="clickable">definition</li><li class="clickable">delimit</li><li class="clickable">depiction</li><li class="clickable">derive</li><li class="clickable">description</li><li class="clickable">description of the world</li><li class="clickable">designate</li><li class="clickable">determin</li><li class="clickable">determinate</li><li class="clickable">difference</li><li class="clickable">display</li><li class="clickable">dissect</li><li class="clickable">doctrine</li><li class="clickable">doubt</li><li class="clickable">dualism</li><li class="clickable">duration</li><li class="clickable">dynamical model</li><li class="clickable">effort</li><li class="clickable">element</li><li class="clickable">elementary proposition</li><li class="clickable">elucidation</li><li class="clickable">empirical</li><li class="clickable">employment</li><li class="clickable">enumeration</li><li class="clickable">equal value</li><li class="clickable">equality</li><li class="clickable">equation</li><li class="clickable">equivalent</li><li class="grey">equivalent in meaning</li><li class="clickable">essence</li><li class="clickable">eternity</li><li class="clickable">everyday language</li><li class="clickable">existence</li><li class="clickable">explanation</li><li class="clickable">exponent</li><li class="clickable">expression</li><li class="clickable">external</li><li class="clickable">fact</li><li class="grey">fairy tale</li><li class="clickable">false</li><li class="clickable">fate</li><li class="clickable">feature</li><li class="clickable">feeling</li><li class="clickable">finite</li><li class="clickable">follow</li><li class="clickable">foresee</li><li class="clickable">formal</li><li class="clickable">formal concept</li><li class="clickable">formal property</li><li class="clickable">formal relation</li><li class="clickable">formulate</li><li class="grey">free will</li><li class="clickable">frege</li><li class="clickable">fully</li><li class="clickable">fully generalized</li><li class="clickable">fundamental laws of arithmetic</li><li class="clickable">future</li><li class="clickable">general</li><li class="clickable">general form</li><li class="clickable">general name</li><li class="clickable">general validity</li><li class="clickable">generality-sign</li><li class="clickable">generalization</li><li class="clickable">geometry</li><li class="clickable">give</li><li class="clickable">given</li><li class="clickable">good</li><li class="clickable">grammar</li><li class="clickable">happy</li><li class="clickable">have no sense</li><li class="clickable">have the same sense</li><li class="clickable">hertz</li><li class="clickable">hierarchy</li><li class="clickable">hieroglyphic script</li><li class="clickable">higher</li><li class="clickable">hold</li><li class="clickable">how</li><li class="clickable">how things</li><li class="clickable">hypothesis</li><li class="clickable">idea</li><li class="clickable">idealist</li><li class="clickable">identical</li><li class="clickable">illogical</li><li class="clickable">imagine</li><li class="clickable">immortality</li><li class="clickable">impossibility</li><li class="clickable">incorrect</li><li class="clickable">independence</li><li class="clickable">independent</li><li class="clickable">indeterminateness</li><li class="clickable">indicate</li><li class="clickable">individuals</li><li class="clickable">induction</li><li class="clickable">infer</li><li class="clickable">infinite</li><li class="clickable">infinity</li><li class="clickable">inner</li><li class="clickable">internal</li><li class="clickable">intuition</li><li class="clickable">intuitive</li><li class="clickable">judgement</li><li class="clickable">judgement stroke</li><li class="clickable">julius caesar</li><li class="clickable">kant</li><li class="clickable">know</li><li class="clickable">lack sense</li><li class="clickable">language</li><li class="clickable">law</li><li class="clickable">least</li><li class="grey">life 5</li><li class="clickable">limit</li><li class="grey">logic-o-pictorial</li><li class="grey">logic-o-syntactical</li><li class="clickable">logical addition</li><li class="clickable">logical constant</li><li class="clickable">logical grammar</li><li class="clickable">logical multiplication</li><li class="clickable">logical object</li><li class="clickable">logical place</li><li class="clickable">logical product</li><li class="clickable">logical sum</li><li class="clickable">logical syntax</li><li class="grey">logico-pictorialform</li><li class="grey">low of least effort</li><li class="grey">low ofnature</li><li class="grey">lowofcausality</li><li class="grey">lowofconservation</li><li class="grey">lowofcontinuity</li><li class="grey">lowofcontradiction</li><li class="grey">lowofleast action</li><li class="clickable">make a statement</li><li class="grey">make oneself understood</li><li class="clickable">manifest</li><li class="clickable">material</li><li class="clickable">mathematics</li><li class="clickable">mauthner</li><li class="clickable">mean</li><li class="clickable">meaningful</li><li class="clickable">meaningless</li><li class="clickable">mechanics</li><li class="clickable">mention</li><li class="clickable">metaphysical</li><li class="clickable">method</li><li class="grey">method of projecion</li><li class="clickable">method of substitution</li><li class="clickable">microcosm</li><li class="clickable">minimum-principle</li><li class="clickable">mirror</li><li class="grey">mirror image</li><li class="grey">misunderstanding</li><li class="clickable">mode</li><li class="clickable">mode of expression</li><li class="grey">mode of signification</li><li class="clickable">model</li><li class="clickable">monism</li><li class="clickable">moore</li><li class="clickable">multiplicity</li><li class="clickable">music</li><li class="clickable">mystical</li><li class="clickable">name</li><li class="clickable">natural phenomena</li><li class="grey">natural phenomenon</li><li class="clickable">natural science</li><li class="clickable">nature</li><li class="clickable">necessary</li><li class="clickable">negative</li><li class="grey">negative-fact</li><li class="grey">negativefact</li><li class="clickable">network</li><li class="clickable">newton</li><li class="clickable">nexus</li><li class="clickable">non-proposition</li><li class="clickable">nonsense</li><li class="clickable">notation</li><li class="clickable">notation for generality</li><li class="clickable">number</li><li class="clickable">numerical</li><li class="clickable">object</li><li class="clickable">obtain</li><li class="clickable">obvious</li><li class="clickable">occam</li><li class="clickable">occur</li><li class="clickable">opposed</li><li class="clickable">opposite</li><li class="clickable">order</li><li class="clickable">paradox</li><li class="clickable">particle</li><li class="clickable">perceive</li><li class="clickable">phenomenon</li><li class="clickable">philosophy</li><li class="clickable">physics</li><li class="clickable">pictorial</li><li class="clickable">pictorial form</li><li class="clickable">place</li><li class="clickable">point-mass</li><li class="clickable">positive</li><li class="clickable">postulate</li><li class="clickable">pre-eminent</li><li class="clickable">predicate</li><li class="clickable">presuppose</li><li class="clickable">primitive idea</li><li class="clickable">primitive proposition</li><li class="clickable">primitive sign</li><li class="clickable">principle of sufficient reason</li><li class="clickable">principles of mathematics</li><li class="clickable">problem</li><li class="clickable">product</li><li class="clickable">project</li><li class="clickable">projective</li><li class="clickable">proof</li><li class="clickable">proper</li><li class="grey">proper name-of a person</li><li class="clickable">property</li><li class="clickable">proposition</li><li class="clickable">propositional</li><li class="clickable">propositional form</li><li class="clickable">propositional sign</li><li class="clickable">prototype</li><li class="clickable">pseudo</li><li class="grey">pseudo concept</li><li class="grey">pseudo proposition</li><li class="grey">pseudo relation</li><li class="clickable">psychology</li><li class="clickable">punishment</li><li class="clickable">put into words</li><li class="clickable">question</li><li class="clickable">range</li><li class="clickable">real</li><li class="clickable">realism</li><li class="clickable">reality</li><li class="clickable">reducibility</li><li class="clickable">represent</li><li class="clickable">representational form</li><li class="clickable">representative</li><li class="clickable">requirement</li><li class="clickable">resolve</li><li class="clickable">reward</li><li class="clickable">riddle</li><li class="clickable">right</li><li class="clickable">rule</li><li class="clickable">russell</li><li class="clickable">russell's paradox</li><li class="clickable">say</li><li class="clickable">scaffolding</li><li class="clickable">scepticism</li><li class="clickable">schema</li><li class="clickable">science</li><li class="clickable">scope</li><li class="clickable">self</li><li class="clickable">self-evidence</li><li class="clickable">series</li><li class="clickable">series of forms</li><li class="clickable">series of numbers</li><li class="clickable">set</li><li class="clickable">show</li><li class="grey">sigh for a logical operation</li><li class="grey">sigh-language</li><li class="clickable">sign</li><li class="clickable">sign for identity</li><li class="clickable">sign of</li><li class="clickable">signify</li><li class="clickable">simplex sigillum veri</li><li class="clickable">situation</li><li class="clickable">socrates</li><li class="clickable">solution</li><li class="clickable">soul</li><li class="clickable">speak</li><li class="clickable">speak about</li><li class="grey">speak about-for itself</li><li class="clickable">stand</li><li class="clickable">stand for</li><li class="grey">stand in a relation to one another</li><li class="clickable">state</li><li class="clickable">state of affairs</li><li class="clickable">state of things</li><li class="clickable">statement</li><li class="clickable">stipulate</li><li class="clickable">structure</li><li class="clickable">sub specie aeterni</li><li class="clickable">subject</li><li class="grey">subject matter</li><li class="grey">subject predicate propositions</li><li class="clickable">subsistent</li><li class="clickable">substance</li><li class="clickable">substitute</li><li class="clickable">substitution</li><li class="clickable">successor</li><li class="clickable">sum</li><li class="clickable">sum-total</li><li class="clickable">superstition</li><li class="clickable">supposition</li><li class="clickable">survival</li><li class="clickable">symbol</li><li class="clickable">symbolism</li><li class="clickable">tableau vivant</li><li class="clickable">talk about</li><li class="clickable">tell</li><li class="clickable">term</li><li class="clickable">theory</li><li class="clickable">theory of classes</li><li class="clickable">theory of knowledge</li><li class="clickable">theory of probability</li><li class="grey">theory oftypes</li><li class="clickable">thing</li><li class="clickable">think</li><li class="clickable">thinkable</li><li class="clickable">thought</li><li class="clickable">thought process</li><li class="clickable">time</li><li class="clickable">totality</li><li class="clickable">transcendental</li><li class="clickable">translation</li><li class="clickable">true</li><li class="clickable">truth-argument</li><li class="clickable">truth-combination</li><li class="clickable">truth-condition</li><li class="clickable">truth-ground</li><li class="grey">truth-operation 5.234,</li><li class="grey">truth-possibility</li><li class="clickable">truth-value</li><li class="grey">truthcondition</li><li class="clickable">type</li><li class="clickable">unalterable</li><li class="clickable">understand</li><li class="clickable">undetermined</li><li class="clickable">unit</li><li class="clickable">unnecessary</li><li class="clickable">unthinkable</li><li class="clickable">use</li><li class="clickable">useless</li><li class="clickable">validity</li><li class="clickable">value</li><li class="grey">value of a variable</li><li class="clickable">variable</li><li class="grey">variable  name</li><li class="grey">variable  number</li><li class="clickable">variable proposition</li><li class="clickable">visual field</li><li class="clickable">what</li><li class="clickable">whitehead</li><li class="clickable">whole</li><li class="clickable">wish</li><li class="clickable">without</li><li class="clickable">without sense</li><li class="clickable">word</li><li class="clickable">world</li><li class="clickable">wrong</li><li class="grey">zero-method 6.121</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // 言語の設定
+        const languages = ["english_ogden", "english_peamg", "german"];
+        // nodes.js に定義された `nodes` を使用
+        setupKeywordAnalysis(nodes, languages);
+    </script>
+</body>
+</html>
+    
